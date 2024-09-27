@@ -12,7 +12,7 @@ In this project, we propose a method for generating pragmatic captions for a tar
 
 ### Project Overview
 
-This project aims to generate pragmatic image captions that effectively distinguish a target image from similar distractor images. We utilize state-of-the-art Vision Language Models (BLIP1 and BLIP2) in combination with a Large Language Model (LLaMa 3.1 8b) to achieve this goal. The project operates on a custom-made clothing dataset consisting of 50 sets of pragmatic images, with each set containing 4 images.
+This project aims to generate pragmatic image captions that effectively distinguish a target image from similar distractor images. We utilize state-of-the-art Vision Language Models (BLIP1 and BLIP2) in combination with a Large Language Model (Qwen2.5-7B-Instruct) to achieve this goal. The project operates on a custom-made clothing dataset consisting of 50 sets of pragmatic images, with each set containing 4 images.
 
 ### Installation
 
