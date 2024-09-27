@@ -1,0 +1,2121 @@
+basketball:
+  /path_to_dataset/basketball/FAV42D00P-K11@3.png:
+    Caption:
+      The scene features a man wearing a blue and white baseball jersey, standing
+      in front of a white wall. He has a tattoo on his arm and is posing for a photo.
+      The baseball jer
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the stripes on the baseball jersey?
+      - Is the tattoo on his right or left arm?
+      - Are the walls bare or decorated with any posters or pictures?
+      - Is the man holding any accessories like a hat or sunglasses?
+  /path_to_dataset/basketball/MN842D021-M11@3.png:
+    Caption:
+      In the image, a young man is posing for a photo while wearing a teal
+      and black basketball jersey, shorts, and shoes. He has a black backpack slung
+      over his shoulder,
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the jersey's black part predominantly at the collar or distributed evenly
+        across the entire shirt?
+      - What color are the shorts the young man is wearing?
+      - Is the backpack he's carrying a large one or a small one?
+      - Are the shoes he's wearing white or a different color?
+  /path_to_dataset/basketball/MN842D0A2-P11@8.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a blue jersey and shorts. The jersey features the number 60 on it, and the shorts
+      are
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the jersey short-sleeved or long-sleeved?
+      - What color are the shorts?
+      - Is the number 60 clearly visible or partially obscured?
+      - Are the shorts tight-fitting or loose?
+  /path_to_dataset/basketball/N1242D286-K11@22.png:
+    Caption:
+      In the image, a man is posing with a soccer ball, wearing a blue shirt
+      and white shorts. He is standing in front of a white wall, holding the soccer
+      ball in his hands.
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the shorts striped or solid?
+      - What color is the wall behind him?
+      - Is the soccer ball round or slightly deformed?
+      - Is the man's shirt long-sleeved or short-sleeved?
+beige pants:
+  /path_to_dataset/beige pants/LA222O03C-A11@15.png:
+    Caption:
+      In the image, a young man is wearing a white long-sleeved shirt and brown
+      pants. He is standing with his hands on his hips, posing for the camera. The
+      white shirt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the man's pants?
+      - Is the shirt tucked into the pants or left untucked?
+      - Are the pants loose or tight fitting?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/beige pants/M3I22D0A8-A11@27.png:
+    Caption: a man in a white shirt and grey pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the pants loose or tight fitting?
+      - What color are the man's shoes?
+      - Is the shirt buttoned up or unbuttoned?
+      - Are the pants light grey or dark grey?
+  /path_to_dataset/beige pants/MA322D0ML-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a white shirt and brown pants. He
+      is standing with his hands on his hips, posing for the camera. The white shirt
+      and brown pants combination
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Does the white shirt have any buttons or is it buttonless?
+      - Are the brown pants tight-fitting or loose?
+      - Is the man wearing a watch or any jewelry?
+      - What is the color of the man's hair?
+  /path_to_dataset/beige pants/MA322E067-O11@16.png:
+    Caption:
+      In the image, a man is wearing a white t-shirt and tan pants. He is standing
+      with his back to the camera, posing for a picture. The tan pants he is wearing
+      are
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt long-sleeved or short-sleeved?
+      - What is the color of the man's shoes?
+      - Are the tan pants loose-fitting or tight-fitting?
+      - Is there a pattern on the t-shirt?
+beige pants + blue:
+  /path_to_dataset/beige pants + blue/MA322D0LZ-K11@3.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and tan pants. He is
+      standing on a white background, posing for the camera. The shirt and pants he
+      is wearing are both
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the blue shirt short-sleeved or long-sleeved?
+      - Are the tan pants fitted or loose?
+      - Is the shirt tucked into the pants or worn untucked?
+      - What color are the socks he is wearing?
+  /path_to_dataset/beige pants + blue/MA322D0MH-K11@13.png:
+    Caption:
+      The image features a young man wearing a blue shirt and khaki pants.
+      He is standing with his hands on his hips, posing for the camera. The combination
+      of the blue shirt and k
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What is the texture of the man's khaki pants?
+      - Is the blue shirt button-down or a T-shirt?
+      - Are the man's shoes dark or light?
+      - Is the man's pose relaxed or stiff?
+  /path_to_dataset/beige pants + blue/MA322D0ML-K11@17.png:
+    Caption:
+      In the image, a man is wearing a light blue shirt and tan pants. He is
+      standing with his hands on his hips, posing for the camera. The man's outfit
+      consists of a
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What is the texture of the man's shirt?
+      - Are the pants loose-fitting or tight-fitting?
+      - Is there any pattern on the man's shirt?
+      - What color are the man's sneakers?
+  /path_to_dataset/beige pants + blue/MA322P05I-K11@17.png:
+    Caption:
+      There is a young man wearing a blue polo shirt and khaki pants, standing
+      in front of a black background. He has his hands in his pockets and is posing
+      for the camera. The
+    Questions:
+      - Is the young man facing the camera directly or slightly to the side?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - Are the khaki pants straight legged or slim fit?
+      - What color are the young man's shoes?
+      - Is there any visible pattern on the polo shirt?
+bike shorts:
+  /path_to_dataset/bike shorts/C6642D02S-N11@7.png:
+    Caption:
+      In the image, a man is wearing a green shirt, black shorts, and a helmet.
+      He is standing in front of a white wall, smiling and posing for the camera.
+      The man'
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the green shirt buttoned up or unbuttoned?
+      - What kind of helmet is he wearing (e.g., baseball cap, motorcycle helmet)?
+      - Is the man standing with his feet together or apart?
+      - Is the white wall smooth or textured?
+  /path_to_dataset/bike shorts/C6642I00Y-Q11@9.2.png:
+    Caption:
+      In the image, a man is posing for a photo while wearing black and gray
+      boxer shorts. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The man
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What is the texture of the boxer shorts?
+      - Are the boxer shorts tight-fitting or loose-fitting?
+      - Is the man standing with his feet together or apart?
+      - Is there any pattern on the boxer shorts?
+  /path_to_dataset/bike shorts/GOD42E00E-Q11@8.png:
+    Caption:
+      In the image, a man is wearing a white and black cycling jersey, shorts,
+      and shoes. He is standing in front of a white wall, posing for the camera. The
+      jer
+    Questions:
+      - Is the man facing the camera directly, or is he slightly turned away?
+      - Are the stripes on the jersey horizontal or vertical?
+      - What type of shoes is the man wearing?
+      - Is the man's skin tone light or dark?
+      - Are the shorts light or dark in color?
+  /path_to_dataset/bike shorts/GOD42K006-Q12@9.png:
+    Caption:
+      There is a man standing in front of a white wall, wearing a white shirt,
+      black shorts, and black shoes. He is holding a helmet in his right hand and
+      posing for the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the shirt's collar buttoned or unbuttoned?
+      - What color is the helmet he is holding?
+      - Is the man standing with his feet shoulder-width apart?
+      - Is the man's hair short or long?
+black&white:
+  /path_to_dataset/black&white/EA822P00M-K12@3.png:
+    Caption:
+      In the image, a young man is wearing a black polo shirt and white pants.
+      He is standing in front of a white wall, posing for the camera. The black polo
+      shirt and white
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the polo shirt short-sleeved or long-sleeved?
+      - What type of white pants is the man wearing (e.g., jeans, khakis)?
+      - Are the pants fitted or loose?
+      - Is the wall smooth or textured?
+  /path_to_dataset/black&white/EA822P00M-Q11@5.png:
+    Caption:
+      The image features a young man wearing a black polo shirt and white pants,
+      carrying a black duffel bag. He is walking down a white hallway, possibly on
+      his way to a destination. The
+    Questions:
+      - Is the young man facing forward or slightly turned to the side?
+      - Is the polo shirt long-sleeved or short-sleeved?
+      - What kind of shoes is the man wearing?
+      - Is the duffel bag large or small?
+      - Are the walls of the hallway decorated with any artwork or other decorations?
+  /path_to_dataset/black&white/TP822E09Y-K11@12.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a gray t-shirt and black pants. He has a brown fanny pack hanging from his waist,
+      adding a
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - What color are the stripes on the fanny pack?
+      - Are the pants tight-fitting or loose?
+      - Is there any visible pattern on the gray t-shirt?
+      - How is the fanny pack positioned on his waist?
+  /path_to_dataset/black&white/VA222O09D-A11@15.1.png:
+    Caption: a man in a white t - shirt and black pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt tight-fitting or loose?
+      - Are the black pants light or dark?
+      - Is the man wearing a belt with his pants?
+      - What kind of shoes is the man wearing?
+blue pants + white top:
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@10.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a white shirt and blue pants. He has a striped scarf wrapped around his neck,
+      adding a pop of color to
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the shirt buttoned up or unbuttoned?
+      - What is the color and texture of the pants?
+      - Is the scarf tied loosely or tightly around his neck?
+      - Is the man standing with his feet shoulder-width apart or close together?
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@9.png:
+    Caption:
+      In the image, a man is wearing a white polo shirt and light blue pants.
+      He is standing with his back to the camera, looking at something in the distance.
+      The polo shirt and p
+    Questions:
+      - Is the man facing the camera, or has his back turned?
+      - What is the texture of the polo shirt?
+      - Is the man wearing a watch?
+      - Are the pants loose or tight fitting?
+      - What color are the sneakers he is wearing?
+  /path_to_dataset/blue pants + white top/PO282L00O-K12@10.png:
+    Caption:
+      In the image, a man is wearing a white tank top and blue and white striped
+      pajama pants. He is standing in front of a white wall, posing for the camera.
+      The pajama
+    Questions:
+      - Is the man facing the camera directly or slightly to the side?
+      - Are the stripes on the pajama pants thin or wide?
+      - What color are the stripes on the pajama pants besides blue and white?
+      - Is the tank top short-sleeved or sleeveless?
+      - Are there any other items of clothing visible, such as socks or a hat?
+  /path_to_dataset/blue pants + white top/PUC22G0AQ-K13@8.1.png:
+    Caption: a man wearing a white t - shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the jeans light or dark?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the man standing or sitting?
+blue short:
+  /path_to_dataset/blue short/VA442D011-C11@11.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a blue
+      t-shirt and shorts. He is holding a black helmet in his right hand and posing
+      for the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt long-sleeved or short-sleeved?
+      - What color are the shorts?
+      - Is the helmet hard plastic or made of another material?
+      - Is the man standing with his feet together or spread apart?
+  /path_to_dataset/blue short/VA442E011-K11@9.png:
+    Caption:
+      A young man is standing in front of a white wall, wearing a gray t-shirt
+      and blue shorts. The t-shirt features the word "Vitamin" on it, while the shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the "Vitamin" word on the t-shirt centered or off-center?
+      - What is the texture of the t-shirt fabric?
+      - Are the shorts tight-fitting or loose?
+      - Is there any design or pattern on the shorts?
+  /path_to_dataset/blue short/VA442E011-K12@6.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and blue shorts.
+      He is standing in front of a white wall, posing for the camera. The t-shirt
+      and shorts
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Are the t-shirt sleeves rolled up or down?
+      - Is the t-shirt fitted or loose?
+      - What is the texture of the shorts fabric?
+      - Is the man standing with his feet together or apart?
+  /path_to_dataset/blue short/VA442E01Y-K11@7.png:
+    Caption:
+      In the image, a man is wearing a black shirt and blue shorts. He has
+      a tattoo on his left arm and is standing with his back to the camera, looking
+      at something in the distance.
+    Questions:
+      - Is the man's shirt tight-fitting or loose-fitting?
+      - What is the color of the tattoo on his left arm?
+      - Is the man standing straight or slightly leaning?
+      - Are the shorts he is wearing light blue or navy blue?
+      - What is the man looking at in the distance?
+blue shorts black top:
+  /path_to_dataset/blue shorts black top/RE542E0HF-K11@30.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and blue pants.
+      He is posing in an athletic stance, with his right leg bent and his left leg
+      extended behind him.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt tight-fitting or loose?
+      - What color are the stripes on the pants?
+      - Is the man standing on a solid surface or on grass?
+      - Are there any accessories like a watch or jewelry on the man?
+  /path_to_dataset/blue shorts black top/RE542E0LQ-K11@21.png:
+    Caption:
+      In the image, a man is wearing a black shirt and blue shorts. He is posing
+      in an athletic stance, demonstrating his flexibility and athleticism. The man's
+      clothing
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the shirt tight or loose fitting?
+      - Are the shorts light or dark blue?
+      - Is the man standing on one leg or both legs?
+      - Is there any visible pattern on the shirt?
+  /path_to_dataset/blue shorts black top/RE542E0LY-K11@23.png:
+    Caption:
+      In the image, a man is wearing a black t-shirt and blue shorts. He is
+      standing with his hands on his hips, posing for the camera. The combination
+      of the black t-sh
+    Questions:
+      - Is the man facing the camera directly or has he turned slightly to one side?
+      - Are the blue shorts loose-fitting or tight-fitting?
+      - Is there a pattern on the black t-shirt?
+      - What color are the man's sneakers?
+      - Is the man standing on a flat surface or on a textured ground?
+  /path_to_dataset/blue shorts black top/S2042E014-K11@7.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a black
+      shirt and blue shorts. He has his hands on his hips, posing confidently for
+      the camera. The man
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the shorts loose or fitted?
+      - What color are the man's shoes?
+      - Is the shirt buttoned or unbuttoned?
+      - Is the man's hair styled neatly or messy?
+blue sweater blue jeans:
+  /path_to_dataset/blue sweater blue jeans/JO922Q01S-K11@13.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a navy blue sweater and jeans. He has his hands in his pockets, giving him a
+      casual and relaxed
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the sweater long-sleeved or short-sleeved?
+      - What color are the jeans?
+      - Are the jeans tight-fitting or loose-fitting?
+      - Is the wall plain white or does it have any decorations?
+  /path_to_dataset/blue sweater blue jeans/JO922Q01Y-K11@40.png:
+    Caption:
+      In the image, a man is wearing a black sweater and light blue pants.
+      He is standing with his hands on his hips, posing for the camera. The combination
+      of the black sweater and light
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the black sweater long-sleeved or short-sleeved?
+      - Are the light blue pants straight-cut or tapered?
+      - Is there any pattern on the black sweater?
+      - Is the man standing on a flat surface or something uneven?
+  /path_to_dataset/blue sweater blue jeans/P3222Q02L-K12@28.png:
+    Caption:
+      The scene features a man wearing a blue sweater and blue jeans, standing
+      in front of a white wall. He has a beard and is posing for the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What is the texture of the blue sweater?
+      - Are the jeans loose-fitting or tight-fitting?
+      - Is the beard trimmed or untrimmed?
+      - What color are the sneakers he is wearing?
+  /path_to_dataset/blue sweater blue jeans/TO222Q0G1-K11@9.png:
+    Caption:
+      In the image, a man is wearing a blue sweater and jeans. He is standing
+      in front of a gray background, smiling and posing for the camera. The blue sweater
+      he is wearing is
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the jeans the man is wearing?
+      - Is the man standing straight or leaning slightly to one side?
+      - Is the smile wide or subtle?
+      - What shade of gray is the background?
+blue tees similar styles:
+  /path_to_dataset/blue tees similar styles/L7422O012-K11@12.png:
+    Caption:
+      The scene features a man wearing a blue t-shirt, jeans, and white sneakers.
+      He is standing in front of a white wall, posing for the camera. The blue t-shirt
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the jeans tight-fitting or loose?
+      - What is the texture of the white sneakers?
+      - Is the blue t-shirt short-sleeved or long-sleeved?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/blue tees similar styles/L7422P00E-K12@17.png:
+    Caption:
+      In the image, a man is wearing a blue polo shirt and blue jeans. He is
+      standing against a white background, posing for the camera. The polo shirt and
+      jeans he is we
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the blue jeans light or dark?
+      - Is the polo shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the man's hair short or long?
+  /path_to_dataset/blue tees similar styles/L7422P00F-K11@15.png:
+    Caption:
+      In the image, a man is wearing a blue polo shirt and jeans, posing for
+      a photo. He is standing in front of a white wall, which serves as the background
+      for the image. The
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the blue polo shirt short-sleeved or long-sleeved?
+      - Are the jeans light or dark blue?
+      - Is the man standing straight or leaning slightly to one side?
+      - What is the color of the man's shoes?
+  /path_to_dataset/blue tees similar styles/L7422P00F-K12@17.png:
+    Caption: a man in a blue polo shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - Are the jeans light or dark blue?
+      - Is there a pattern on the polo shirt?
+      - Are the jeans loose or tight fitting?
+blue top:
+  /path_to_dataset/blue top/SO222P07V-K11@10.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a blue
+      polo shirt and black pants. He has his hands in his pockets, giving a casual
+      and relaxed appearance. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - What color are the man's sneakers?
+      - Is the wall smooth or textured?
+      - Are the pants straight leg or tapered?
+  /path_to_dataset/blue top/SO222P08K-L11@13.png:
+    Caption: a man in a blue polo shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans light or dark blue?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - What color are the man's sneakers?
+      - Is the man wearing a watch?
+  /path_to_dataset/blue top/SO222P08K-L11@15.png:
+    Caption:
+      There is a young man wearing a blue polo shirt and jeans, standing with
+      his arms crossed in front of him. He has a casual and relaxed pose, showcasing
+      his confidence and style.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What shade of blue is the polo shirt?
+      - Are the jeans light or dark?
+      - Is the man's skin tone light or dark?
+      - Does he have any accessories, such as a watch or bracelet?
+  /path_to_dataset/blue top/SU222S0TF-C12@28.png:
+    Caption: a man wearing a hoodie and sweat pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the hoodie long-sleeved or short-sleeved?
+      - Are the sweat pants loose or tight-fitting?
+      - What color is the hoodie?
+      - Is the man standing or sitting?
+burgundy pyjama:
+  /path_to_dataset/burgundy pyjama/L0622P003-G11@33.png:
+    Caption: a man in a red shirt and blue shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What type of neckline does the red shirt have?
+      - Are the shorts loose or fitted?
+      - Is there a pattern on the blue shorts?
+      - Are the shorts made of cotton or another material?
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@3.png:
+    Caption:
+      In the image, a man is wearing a maroon t-shirt and shorts, standing
+      with his arms crossed in front of him. He appears to be posing for a photo.
+      The t-shirt
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the man's pose casual or stiff?
+      - What color are the shorts the man is wearing?
+      - Is the t-shirt long-sleeved or short-sleeved?
+      - Are the shorts loose-fitting or tight-fitting?
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@5.png:
+    Caption: a man in a maroon t - shirt and shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the man's shorts?
+      - Is the t-shirt long-sleeved or short-sleeved?
+      - Are the shorts loose-fitting or tight-fitting?
+      - Is the man wearing any accessories, such as a hat or jewelry?
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@7.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a maroon
+      short-sleeved shirt and shorts. He is posing for a photo, showcasing his casual
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the shirt buttoned up or unbuttoned?
+      - What color are the shorts?
+      - Is the man standing straight or leaning slightly to one side?
+      - Are the shorts tight-fitting or loose?
+business shirt:
+  /path_to_dataset/business shirt/JO922D05E-K13@4.1.png:
+    Caption:
+      In the image, a man is wearing a light blue dress shirt and dark blue
+      pants. He is standing in front of a white wall, posing for a photo. The man's
+      clothing consists of
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the shirt tucked into the pants or left untucked?
+      - What is the texture of the man's pants?
+      - Is the man wearing a tie with the shirt?
+      - Are the pants straight leg or slim fit?
+  /path_to_dataset/business shirt/M9122D1MF-K12@14.png:
+    Caption:
+      In the image, a man is wearing a light blue dress shirt and dark blue
+      jeans. He is standing with his hands on his hips, posing for the camera. The
+      man's clothing is
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the dress shirt buttoned up or unbuttoned?
+      - What color are the man's sneakers?
+      - Is the man standing straight or leaning slightly to one side?
+      - Are the dark blue jeans tight or loose fitting?
+  /path_to_dataset/business shirt/MA322D0N8-K11@15.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and dark pants. He is standing
+      with his hands on his hips, posing for the camera. He is wearing a pair of white
+      sne
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the pants?
+      - Is the shirt buttoned up or unbuttoned?
+      - What type of white sneakers is he wearing?
+      - Is the man's pose symmetrical, with both hands equally high?
+  /path_to_dataset/business shirt/OL422D073-K11@11.png:
+    Caption:
+      In the image, a man is wearing a blue shirt, black pants, and carrying
+      a black handbag. He is standing against a white wall, posing for the camera.
+      The man's clothing
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the blue shirt long-sleeved or short-sleeved?
+      - What type of black pants is the man wearing (jeans, chinos, etc.)?
+      - Is the handbag a backpack or a shoulder bag?
+      - Are the pants light or dark black?
+checked shirt:
+  /path_to_dataset/checked shirt/NN922E009-K11@10.png:
+    Caption:
+      In the image, a young man is wearing a plaid shirt and black pants. He
+      is standing in front of a white wall, posing for the camera. The plaid shirt
+      and black pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the plaid shirt buttoned up or unbuttoned?
+      - What is the color of the wall behind him?
+      - Are the black pants light or dark?
+      - Is the man standing straight or leaning slightly?
+  /path_to_dataset/checked shirt/PUC22D07P-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a black and white plaid shirt, jeans,
+      and sneakers. He is standing in front of a white background, posing for the
+      camera. The pla
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the plaid pattern on the shirt horizontal or vertical?
+      - Are the jeans light or dark?
+      - What color are the sneakers?
+      - Is the man's hair styled in a particular way?
+  /path_to_dataset/checked shirt/PY522D015-A12@21.png:
+    Caption:
+      In the image, a man wearing a plaid shirt and black pants is posing for
+      a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the plaid shirt buttoned up or unbuttoned?
+      - Are the black pants tight-fitting or loose?
+      - What color are the man's sneakers?
+      - Is the wall smooth or textured?
+  /path_to_dataset/checked shirt/SE622D11T-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a plaid shirt and jeans. He is posing
+      for the camera, standing with his hands in his pockets. The plaid shirt he is
+      wearing
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Does the plaid shirt have a button-down collar or is it a t-shirt?
+      - Are the jeans dark or light?
+      - Is the plaid pattern fine or wide?
+      - What is the color of the plaid?
+dark pyjama:
+  /path_to_dataset/dark pyjama/5JO82N002-Q11@8.png:
+    Caption:
+      In the image, a man is wearing a blue long-sleeved shirt and matching
+      pajama pants. He is standing against a white background, posing for the camera.
+      The shirt and p
+    Questions:
+      - Is the man facing the camera directly or slightly to the side?
+      - What is the texture of the shirt fabric?
+      - Are the pajama pants loose-fitting or tight-fitting?
+      - Is there any pattern on the shirt?
+      - What color are the man's shoes?
+  /path_to_dataset/dark pyjama/TO282M00G-K11@10.png:
+    Caption:
+      In the image, a man is wearing a long-sleeved shirt and pajama pants.
+      He is standing in front of a white background, posing for the camera. The shirt
+      and p
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color is the man's shirt?
+      - Are the sleeves of the shirt buttoned or rolled up?
+      - Is the man standing straight or leaning slightly?
+      - What color are the pajama pants?
+  /path_to_dataset/dark pyjama/TO282M010-K11@6.png:
+    Caption:
+      In the image, a young man is standing in front of a white background,
+      wearing a long-sleeved shirt and plaid pajamas. He is posing for the camera,
+      showcasing
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - What color is the long-sleeved shirt he is wearing?
+      - Are the plaid pajamas buttoned up or unbuttoned?
+      - Is the man's hair styled in a particular way?
+      - What color is the background behind him?
+  /path_to_dataset/dark pyjama/TO282M010-K11@8.png:
+    Caption:
+      In the image, a man is wearing a long-sleeved shirt and plaid pajama
+      pants. He is standing in front of a white background, posing for the camera.
+      The plaid
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color is the shirt besides being long-sleeved and plaid?
+      - Are the pajama pants loose-fitting or tight-fitting?
+      - Is there any visible texture on the plaid pattern?
+      - What is the exact shade of white in the background?
+dif red tees:
+  /path_to_dataset/dif red tees/BB122P06I-G11@4.1.png:
+    Caption:
+      There is a young man wearing a red polo shirt, black pants, and black
+      shoes. He is standing with his hands on his hips, posing for the camera. The
+      polo shirt
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the polo shirt long-sleeved or short-sleeved?
+      - Are the black pants casual or dress style?
+      - What color are the shoelaces on his black shoes?
+      - Is the man wearing a watch or any accessories on his wrist?
+  /path_to_dataset/dif red tees/BB122P07B-G11@6.1.png:
+    Caption: a man in a red shirt and blue pants holding a golf club club ball
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the stripes on his shirt?
+      - Are the blue pants light or dark?
+      - Is the golf club a driver or an iron?
+      - Is the man standing on grass or concrete?
+  /path_to_dataset/dif red tees/C6642E021-Q11@8.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a red
+      shirt and black shorts. He is holding a baseball glove in his right hand and
+      posing for the camera. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the red shirt long-sleeved or short-sleeved?
+      - What color are the soles of his sneakers?
+      - Is the baseball glove leather or made of another material?
+      - Are the black shorts loose-fitting or tight-fitting?
+  /path_to_dataset/dif red tees/WR122S01O-G11@8.png:
+    Caption:
+      In the image, a man is wearing a red sweater and black pants. He is standing
+      with his back to the camera, posing in a casual and relaxed manner. The red
+      sweater and black
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What type of casual shoes is the man wearing?
+      - Is the red sweater long-sleeved or short-sleeved?
+      - Are the black pants tight-fitting or loose?
+      - Is there any pattern on the red sweater?
+funky shirt:
+  /path_to_dataset/funky shirt/BQ022O00Z-A11@11.png:
+    Caption:
+      There is a man wearing a striped long-sleeved shirt and tan pants, standing
+      in front of a white wall. He has his hands in his pockets and is posing for
+      the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the stripes on his shirt vertical or horizontal?
+      - Is the color of the stripes on his shirt dark or light?
+      - Are his pants straight-legged or slim-fit?
+      - Is the man standing with both feet together or apart?
+  /path_to_dataset/funky shirt/FA522D04X-K11@14.png:
+    Caption:
+      In the image, a young man is standing with his hands on his hips, wearing
+      a blue and white striped shirt, tan pants, and black shoes. He has a casual
+      and relaxed
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the stripes on his shirt vertical or horizontal?
+      - What color are the pants besides tan?
+      - Are the shoes shiny or matte?
+      - Is the man standing with his feet shoulder-width apart or closer together?
+  /path_to_dataset/funky shirt/FA522E00W-E11@5.png:
+    Caption:
+      In the image, a man is wearing a blue and white striped shirt and yellow
+      pants. He is standing with his back to the camera, posing in a casual and relaxed
+      manner. The man
+    Questions:
+      - Is the man's shirt long-sleeved or short-sleeved?
+      - Are the stripes on the shirt vertical, horizontal, or diagonal?
+      - What type of shoes is the man wearing?
+      - Is the man standing on a flat surface or on stairs?
+      - Is there any visible texture or pattern on the yellow pants?
+  /path_to_dataset/funky shirt/TM022D08Z-K11@27.png:
+    Caption:
+      In the image, a man is wearing a blue and white checked shirt, tan pants,
+      and white sneakers. He is standing with his hands on his hips, posing for the
+      camera. The
+    Questions:
+      - Is the man facing the camera directly or turned slightly away?
+      - Are the stripes on the shirt horizontal or vertical?
+      - What is the color of the tan pants?
+      - Is the man standing straight or leaning slightly to one side?
+      - Are the white sneakers lace-up or slip-on?
+funny pants:
+  /path_to_dataset/funny pants/VEI22F006-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and a yellow
+      floral skirt. He is standing in front of a white wall, showcasing his unique
+      and eye-catching out
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the sweatshirt long-sleeved or short-sleeved?
+      - What is the texture of the floral skirt?
+      - Are the flowers on the skirt small or large?
+      - Is the wall smooth or textured?
+  /path_to_dataset/funny pants/VEI22F006-Q11@9.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and colorful
+      floral shorts. He is posing for the camera, showcasing his unique and eye-catching
+      outfit.
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Are the floral shorts bright or pastel colors?
+      - What is the texture of the sweatshirt?
+      - Is the sweatshirt hooded or without a hood?
+      - Are the shorts patterned all over or just on the legs?
+  /path_to_dataset/funny pants/VEI22G00U-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing yellow and black floral pants and
+      a black shirt. He has a tattoo on his left arm, which adds a unique touch to
+      his outfit. The
+    Questions:
+      - Is the young man standing or sitting?
+      - What color is the pattern on the yellow and black floral pants?
+      - Is the tattoo on his left arm a single design or multiple designs?
+      - Are the pants loose-fitting or tight-fitting?
+      - Is the man facing the camera or turned away?
+  /path_to_dataset/funny pants/VEI22O00V-Q11@8.png:
+    Caption:
+      There is a young man wearing a blue and yellow shirt, black pants, and
+      black shoes. He is standing against a white wall, posing for the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the shirt patterned or solid colored?
+      - Are the pants light or dark blue?
+      - Is the wall textured or smooth?
+      - What is the pose of the man?
+generic white and grey top:
+  /path_to_dataset/generic white and grey top/PUC22O0NH-A11@18.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black shorts.
+      He is standing in front of a white background, posing for the camera. The t-shirt
+      features a color
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - What color are the shorts?
+      - Is the t-shirt design simple or complex?
+      - Is the background plain or textured?
+      - Are the shorts loose or fitted?
+  /path_to_dataset/generic white and grey top/PUC22O0NY-A11@13.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black pants.
+      He is standing in front of a white background, posing for the camera. The t-shirt
+      has a red
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on the man's pants?
+      - Is the red design on the t-shirt a single color or does it have a pattern?
+      - How is the t-shirt worn (tucked in or untucked)?
+      - Is the man standing with his arms crossed or at his sides?
+  /path_to_dataset/generic white and grey top/SO422S025-C11@11.png:
+    Caption:
+      In the image, a young man is wearing a gray sweatshirt and brown pants.
+      He is standing on a white background, posing for the camera. The sweatshirt
+      and pants he is
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - What is the texture of the sweatshirt?
+      - Are the pants loose or tight fitting?
+      - Is there any pattern on the sweatshirt?
+      - What color are the sneakers he is wearing?
+  /path_to_dataset/generic white and grey top/TR122E01B-Q11@3.png:
+    Caption: a man in a white t - shirt and black pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the black pants tight-fitting or loose?
+      - Is the white t-shirt long-sleeved or short-sleeved?
+      - What color are the man's sneakers?
+      - Is the man wearing a watch?
+green striped tee:
+  /path_to_dataset/green striped tee/JA222O2UW-E11@17.png:
+    Caption:
+      The scene features a young man wearing a yellow and green striped t-shirt
+      and blue jeans. He is standing with his hands on his hips, posing for the camera.
+      The t-shirt
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - What color are the stripes on the t-shirt?
+      - Are the blue jeans light or dark?
+      - Is the man's pose casual or stiff?
+      - Is there anything behind him in the background?
+  /path_to_dataset/green striped tee/JA222O2UY-M11@21.png:
+    Caption:
+      In the image, a young man is wearing a striped t-shirt and jeans. He
+      is standing with his hands on his hips, posing for the camera. The t-shirt features
+      a
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the stripe pattern vertical or horizontal?
+      - What color are the stripes on the t-shirt?
+      - Are the jeans tight fitting or loose?
+      - Is the man standing straight or slightly leaning?
+  /path_to_dataset/green striped tee/JA222O2UY-M11@23.png:
+    Caption:
+      In the image, a man is wearing a green and blue striped t-shirt and jeans.
+      He is standing with his back to the camera, posing in a casual and relaxed manner.
+      The
+    Questions:
+      - Is the man's t-shirt loose or fitted?
+      - What is the exact shade of green in the stripes?
+      - Are the stripes vertical, horizontal, or diagonal?
+      - Is the man standing on a flat surface or on stairs?
+      - Is there any visible texture or pattern on the jeans?
+  /path_to_dataset/green striped tee/LE222P00A-M11@8.png:
+    Caption:
+      In the image, a young man is wearing a green and white striped polo shirt.
+      He is standing with his hands on his hips, posing confidently for the camera.
+      The polo shirt
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the green color of the polo shirt a bright green or a muted green?
+      - Are the stripes on the polo shirt thin or wide?
+      - Is the man's hair styled neatly or is it messy?
+      - Is the background behind the man busy or simple?
+green top:
+  /path_to_dataset/green top/QS122Q05F-P11@17.png:
+    Caption:
+      In the image, a man is wearing a teal green sweater and black pants.
+      He is standing with his hands on his hips, posing for the camera. The teal green
+      sweater and black
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the sweater loose-fitting or tight-fitting?
+      - Are the black pants straight leg or slim fit?
+      - Is the man standing on a flat surface or on stairs?
+      - What is the texture of the sweater?
+  /path_to_dataset/green top/QS122Q05G-P11@14.png:
+    Caption:
+      In the image, a man is wearing a green sweater and blue jeans. He is
+      standing in front of a white wall, smiling and posing for the camera. The green
+      sweater and blue jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the green sweater long-sleeved or short-sleeved?
+      - Are the blue jeans tight-fitting or loose?
+      - Is the man standing with his arms crossed or by his sides?
+      - What shade of green is the sweater?
+  /path_to_dataset/green top/QS122Q05G-P11@17.png:
+    Caption: a man in a green sweater and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans light or dark green?
+      - Is the sweater long-sleeved or short-sleeved?
+      - Are the jeans tight-fitting or loose-fitting?
+      - Is the man standing or sitting?
+  /path_to_dataset/green top/QS122Q05N-P11@4.1.png:
+    Caption:
+      In the image, a young man is standing in front of a white background,
+      wearing a v-neck teal sweater and blue jeans. He is posing confidently, showcasing
+      his style and
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the v-neck sweater tight-fitting or loose?
+      - What type of blue are the jeans (dark, medium, light)?
+      - Is the man wearing any accessories, such as a watch or jewelry?
+      - How is the man's hair styled?
+green-ish pants:
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and khaki pants.
+      He has a tattoo on his arm, which adds a unique touch to his overall appearance.
+      The t
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on his khaki pants?
+      - Is the tattoo on his right or left arm?
+      - Are the khaki pants loose or tight fitting?
+      - Is the man standing or sitting?
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@9.png:
+    Caption: a man in a black t - shirt and khaki pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the khaki pants loose or tight fitting?
+      - What color are the man's sneakers?
+      - Is the t-shirt tucked in or left untucked?
+      - Is the man wearing a watch?
+  /path_to_dataset/green-ish pants/OS322S0F1-Q11@14.png:
+    Caption:
+      In the image, a man is wearing a black sweater and gray pants. He is
+      standing with his back to the camera, giving a full view of his outfit. The
+      sweater and pants appear to
+    Questions:
+      - Is the man standing straight or leaning slightly?
+      - What is the texture of the black sweater?
+      - Are the gray pants fitted or loose?
+      - Is the man wearing any accessories, such as a watch or necklace?
+      - How does the color of the sweater contrast with the gray pants?
+  /path_to_dataset/green-ish pants/UN242D0HN-Q11@13.1.png:
+    Caption: a man in a black shirt and khak pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the khaki pants straight legged or loose fitting?
+      - Is the shirt button-down or t-shirt style?
+      - What color are the man's shoes?
+      - Is the man light-skinned or dark-skinned?
+grey + black:
+  /path_to_dataset/grey + black/PU142D0V9-Q11@8.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - What color are the man's shorts?
+      - Is the man standing with his hands in his pockets or at his sides?
+      - Is the wall behind him smooth or textured?
+  /path_to_dataset/grey + black/SO222S08U-K11@10.png:
+    Caption:
+      In the image, a man is wearing a gray hoodie and black pants. He has
+      a beard and is posing for a photo. The gray hoodie and black pants create a
+      casual
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the hoodie long-sleeved or short-sleeved?
+      - What is the texture of the hoodie fabric?
+      - Are the black pants tight-fitting or loose-fitting?
+      - Is the man standing straight or leaning slightly?
+  /path_to_dataset/grey + black/SU222E072-Q11@15.png:
+    Caption:
+      In the image, a young man is standing with his hands on his hips, wearing
+      a gray sweater and black pants. He is posing in front of a white background,
+      showcasing his clothing
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the gray sweater long-sleeved or short-sleeved?
+      - What color are the stripes on the young man's black pants?
+      - Is the white background smooth or textured?
+      - Are the young man's hands crossed tightly or loosely on his hips?
+  /path_to_dataset/grey + black/SU222S173-C11@10.png:
+    Caption:
+      In the image, a young man is wearing a sweatshirt and jeans. He is standing
+      with his hands on his hips, posing for the camera. The sweatshirt features a
+      graphic
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the graphic on the sweatshirt colorful or black and white?
+      - Are the jeans light or dark?
+      - Is the man standing straight or leaning slightly to one side?
+      - What is the color of the sweatshirt?
+grey top:
+  /path_to_dataset/grey top/LA222P04X-C11@12.1.png:
+    Caption: a man in a grey polo shirt and black pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - Are the black pants light or dark?
+      - Is the man wearing any accessories like a belt or watch?
+      - What is the texture of the grey polo shirt?
+  /path_to_dataset/grey top/MA322P05R-C11@22.png:
+    Caption:
+      There is a young man standing in front of a black background, wearing
+      a gray polo shirt and khaki pants. The polo shirt has a collar, and the khaki
+      pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the collar of the polo shirt buttoned or unbuttoned?
+      - Are the khaki pants creased or wrinkled?
+      - What shade of gray is the polo shirt?
+      - Is the man wearing any accessories, like a watch or bracelet?
+  /path_to_dataset/grey top/MA622G02I-N11@15.png:
+    Caption:
+      In the image, a man is wearing a polo shirt and khaki pants. He is standing
+      in front of a white wall, posing for the camera. The polo shirt and kh
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - What color are the man's pants?
+      - Is the man's pose formal or casual?
+      - Are the pants loose-fitting or tight?
+  /path_to_dataset/grey top/SO222D13G-K11@18.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and jeans. He is standing
+      with his hands on his hips, posing for the camera. The shirt he is wearing has
+      a collar
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the jeans?
+      - Is the shirt buttoned up or unbuttoned?
+      - Does the shirt have a collar that is high or low?
+      - Are the jeans tight or loose fitting?
+orange pants:
+  /path_to_dataset/orange pants/JL142D086-K11@20.png:
+    Caption:
+      There is a man standing in front of a black background, wearing a black
+      shirt and orange pants. He is posing for the camera, with his hands on his hips
+      and a confident expression on his face
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the black shirt he is wearing a solid color or has a pattern?
+      - Are the orange pants striped or solid?
+      - Is the man standing with his feet shoulder-width apart or closer together?
+      - Does the man have any accessories, such as a hat or jewelry?
+  /path_to_dataset/orange pants/JL142E03P-G11@9.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a black polo shirt and orange pants. He has his hands on his hips and is posing
+      for the camera.
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the polo shirt long-sleeved or short-sleeved?
+      - What color is the man's hair?
+      - Is the wall smooth or textured?
+      - Are the orange pants tight or loose fitting?
+  /path_to_dataset/orange pants/JL142E03Q-G11@10.png:
+    Caption:
+      In the image, a young man is wearing an orange polo shirt and shorts,
+      posing for a photo. He is standing in front of a white wall, which serves as
+      the background for the image.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the shorts the man is wearing?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - Is the wall textured or smooth?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/orange pants/N1242E0MY-N11@13.png:
+    Caption:
+      In the image, a young man is wearing an orange polo shirt and tan pants.
+      He is posing for a photo, standing in front of a white background. The polo
+      shirt and pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the polo shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Are the pants loose-fitting or tight-fitting?
+      - Is the man standing straight or leaning slightly?
+pink short:
+  /path_to_dataset/pink short/PO222D0GB-J11@6.png:
+    Caption:
+      In the image, a man is wearing a pink shirt and shorts. He is standing
+      in front of a white wall, posing for the camera. The pink shirt and shorts he
+      is we
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the pink shirt buttoned or unbuttoned?
+      - What color are the shorts the man is wearing?
+      - Is the man standing straight or leaning slightly to one side?
+      - Are there any patterns on the pink shirt?
+  /path_to_dataset/pink short/PO222D0K9-K12@9.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and pink shorts. He
+      is standing in front of a white wall, posing for a photo. The shirt and shorts
+      he is we
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the blue shirt buttoned or unbuttoned?
+      - What is the texture of the pink shorts?
+      - Is the man wearing a watch or bracelet?
+      - Are the shorts long or short?
+  /path_to_dataset/pink short/PO222F05D-G11@10.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and pink shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image.
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the blue shirt a solid color or does it have any patterns?
+      - What kind of pose is the young man striking in the photo?
+      - Are the pink shorts a light shade or a dark shade?
+      - Is the wall behind him smooth or textured?
+  /path_to_dataset/pink short/PO222F06V-G11@7.png:
+    Caption:
+      In the image, a young man is wearing a tan polo shirt and pink shorts.
+      He is standing in front of a white wall, posing for the camera. The polo shirt
+      and short
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - Are the shorts tight or loose fitting?
+      - What is the color shade of the tan polo shirt?
+      - Is the man standing with his feet together or apart?
+pink sporty tee:
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@3.png:
+    Caption: adi adi manchester fc away kit
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the shorts?
+      - Is the shirt long-sleeved or short-sleeved?
+      - What color is the shirt?
+      - Are the socks visible?
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@8.png:
+    Caption:
+      adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi
+      adi adi adi
+    Questions:
+      - Is the text "adi" repeated multiple times in the image?
+      - Is the text written in uppercase, lowercase, or a mix?
+      - Is the font style of the text modern or traditional?
+      - Is the text displayed horizontally or vertically?
+      - Is the background behind the text plain or patterned?
+  /path_to_dataset/pink sporty tee/EL942E015-J11@5.png:
+    Caption:
+      In the image, a man is wearing pink shorts and a blue shirt. He is standing
+      with his back to the camera, giving a full view of his outfit. The pink shorts
+      and blue
+    Questions:
+      - Is the man's blue shirt buttoned or unbuttoned?
+      - Are the shorts a solid pink or do they have any patterns?
+      - What type of shoes is the man wearing with his blue shirt and pink shorts?
+      - Is the blue shirt a bright or a pastel shade?
+      - Does the man have any accessories like a hat or glasses?
+  /path_to_dataset/pink sporty tee/WR122F02Z-K16@8.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a pink
+      t-shirt and blue shorts. He is posing for the camera with his hands on his hips,
+      showcasing
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the pink t-shirt a solid color or does it have any patterns?
+      - Are the blue shorts tight-fitting or loose?
+      - What color is the wall behind him?
+      - Is the man barefoot or wearing socks?
+pink top:
+  /path_to_dataset/pink top/1FI22O00N-J11@7.png:
+    Caption:
+      In the image, a young man is wearing a bright pink t-shirt and blue jeans.
+      He is standing with his hands on his hips, posing for the camera. The t-shirt
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - Are the blue jeans tight-fitting or loose?
+      - Is the pink t-shirt patterned or solid?
+      - Is the man's hair long or short?
+  /path_to_dataset/pink top/1FI22S02C-J11@3.png:
+    Caption:
+      There is a young man wearing a bright pink hoodie and blue denim shorts,
+      posing for a photo. He is standing in front of a white wall with his hands on
+      his head, showc
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - What shade of pink is the hoodie?
+      - Are the shorts light blue or navy blue?
+      - Is the wall textured or smooth?
+      - What is the position of the young man's feet?
+  /path_to_dataset/pink top/AM422P007-J11@13.png:
+    Caption:
+      In the image, a young man is wearing a pink polo shirt and jeans. He
+      is standing with his hands on his hips, posing for the camera. The pink polo
+      shirt
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the polo shirt long-sleeved or short-sleeved?
+      - What is the texture of the jeans?
+      - Are the jeans tight-fitting or loose-fitting?
+      - Is the pink polo shirt striped or solid?
+  /path_to_dataset/pink top/PUC22D088-G11@19.png:
+    Caption:
+      In the image, a young man is wearing a pink shirt and blue jeans. He
+      is standing in front of a white wall, posing for the camera. The pink shirt
+      and blue jeans
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the pink shirt short-sleeved or long-sleeved?
+      - Are the blue jeans tight-fitting or loose?
+      - Is there a pattern on the pink shirt?
+      - What color are the man's sneakers?
+posing:
+  /path_to_dataset/posing/JA222O2SN-A11@19.png:
+    Caption:
+      In the image, a young man is sitting on a stool, wearing a white t-shirt
+      and blue jeans. He is posing in a relaxed and casual manner, showcasing his
+      style
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans tight-fitting or loose?
+      - What is the color of the stool he is sitting on?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - Is the man's posture leaning forward or straight?
+  /path_to_dataset/posing/JA222O2SN-A11@21.png:
+    Caption: a man wearing a white t - shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans light or dark?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the man standing or sitting?
+  /path_to_dataset/posing/JA222O2VO-A11@20.png:
+    Caption: a man in a white t - shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans tight or loose fitting?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the man light-skinned or dark-skinned?
+  /path_to_dataset/posing/M0M22O0B7-A11@3.png:
+    Caption: a young man wearing a white t - shirt and jeans
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Are the jeans loose or tight fitting?
+      - What color are the young man's sneakers?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - Is the young man dark-skinned or light-skinned?
+purple shirt:
+  /path_to_dataset/purple shirt/VA222O08Q-I11@9.png:
+    Caption:
+      In the image, a man wearing a purple t-shirt and khaki pants is posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - Are the pants tight or loose-fitting?
+      - What color are the man's sneakers?
+      - Is the wall smooth or textured?
+  /path_to_dataset/purple shirt/VA222O08S-I11@12.png:
+    Caption:
+      In the image, a young man is wearing a purple t-shirt and black shorts.
+      He is standing in front of a white wall, posing for the camera. The purple t-shirt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the black shorts long or short?
+      - Is the t-shirt tight-fitting or loose?
+      - What is the texture of the purple t-shirt?
+      - Is the wall plain white or decorated with anything?
+  /path_to_dataset/purple shirt/VA222O08S-I11@9.png:
+    Caption:
+      a man wearing a purple t - shirt with the words stay the wall printed
+      on it
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt fitted or loose?
+      - What color is the background behind the man?
+      - Is the print on the t-shirt centered or off-center?
+      - Are the words "Stay the Wall" written in all caps or mixed case?
+  /path_to_dataset/purple shirt/VA222S04T-I11@10.png:
+    Caption:
+      In the image, a young man is wearing a purple hoodie and pink pants.
+      He is posing for a photo, standing in front of a white wall. The purple hoodie
+      and
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the hoodie long-sleeved or short-sleeved?
+      - What kind of pose is the man striking?
+      - Are the pink pants fitted or loose?
+      - Is there any pattern on the hoodie?
+purple top:
+  /path_to_dataset/purple top/THJ22O00C-I11@5.png:
+    Caption:
+      In the image, a man is wearing a purple long-sleeved shirt and white
+      shorts. He is standing with his back to the camera, giving a full view of his
+      outfit. The pur
+    Questions:
+      - Is the man's shirt buttoned up or unbuttoned?
+      - What is the texture of the purple shirt?
+      - Are the shorts tight-fitting or loose?
+      - Is there any pattern on the man's shirt?
+      - What color are the man's sneakers?
+  /path_to_dataset/purple top/TI522D06K-I11@9.png:
+    Caption: a man in a purple shirt and black pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the shirt long-sleeved or short-sleeved?
+      - Are the pants tight-fitting or loose-fitting?
+      - What color are the man's shoes?
+      - Is the man wearing a tie or not?
+  /path_to_dataset/purple top/TOB22G05T-Q11@18.png:
+    Caption: a man in a purple sweater and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the sweater long-sleeved or short-sleeved?
+      - Are the jeans light or dark?
+      - Is the man wearing a watch?
+      - Are there any patterns on the sweater?
+  /path_to_dataset/purple top/UR622E025-Q11@5.png:
+    Caption:
+      In the image, a man is wearing a purple t-shirt and black pants. He is
+      standing with his back to the camera, giving a full view of his outfit. The
+      t-shirt
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What is the texture of the t-shirt?
+      - Are the black pants tight-fitting or loose?
+      - Is there a pattern on the t-shirt?
+      - What color are the man's sneakers?
+red shirt:
+  /path_to_dataset/red shirt/QS122D0CE-G11@26.png:
+    Caption:
+      There is a man standing in front of a white background, wearing a maroon
+      shirt and black pants. He poses confidently for the camera, showcasing his style
+      and fashion sense. The shirt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the pants loose or fitted?
+      - What kind of confidence pose is the man striking?
+      - Is the shirt buttoned up or unbuttoned at the top?
+      - Does the background have any other elements besides being white?
+  /path_to_dataset/red shirt/QS122D0CM-G11@15.png:
+    Caption:
+      In the image, a young man is wearing a red and black plaid shirt, black
+      pants, and black shoes. He is standing against a black background, posing for
+      the camera. The plaid
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the plaid shirt buttoned up or unbuttoned?
+      - Are the black pants tight or loose fitting?
+      - What kind of black shoes is the young man wearing (e.g., sneakers, loafers)?
+      - Is the background smooth or textured?
+  /path_to_dataset/red shirt/QS122D0CO-G11@16.png:
+    Caption:
+      The image features a young man wearing a red and black plaid shirt, black
+      pants, and black shoes. He is posing for the camera, standing with his hands
+      on his hips. The pla
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the plaid pattern on the shirt horizontal or vertical?
+      - Are the pants light or dark black?
+      - What is the color of the man's skin?
+      - Are the shoes laced or slip-on?
+  /path_to_dataset/red shirt/QS122E01W-K11@17.png:
+    Caption:
+      In the image, a young man is wearing a maroon sweater and black pants,
+      posing for a photo. He has a tattoo on his left arm, which adds a unique touch
+      to his overall
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the sweater long-sleeved or short-sleeved?
+      - What is the color and style of the tattoo on his left arm?
+      - Are the black pants casual or dress pants?
+      - Is the man standing or sitting while posing?
+red shirt pants:
+  /path_to_dataset/red shirt pants/WF522E011-C14@16.png:
+    Caption:
+      In the image, a man is wearing a burgundy turtleneck sweater and black
+      pants. He is standing with his hands on his hips, posing for the camera. The
+      turt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on the man's black pants?
+      - Is the turtleneck collar high or low?
+      - Are the man's hands clasped tightly or loosely on his hips?
+      - Is there a pattern on the man's turtleneck sweater?
+  /path_to_dataset/red shirt pants/WF522E03C-K11@12.png:
+    Caption:
+      In the image, a man is wearing a red sweater and navy pants. He is standing
+      with his hands on his hips, posing for the camera. The red sweater and navy
+      pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the red sweater long-sleeved or short-sleeved?
+      - Are the navy pants fitted or loose?
+      - Is the man wearing any accessories, such as a hat or jewelry?
+      - Is the man standing straight or leaning slightly?
+  /path_to_dataset/red shirt pants/WF522P026-G11@14.png:
+    Caption:
+      The image features a young man wearing a maroon polo shirt and blue pants.
+      He is posing for a photo, standing in front of a white background. The polo
+      shirt and blue pants
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the maroon polo shirt long-sleeved or short-sleeved?
+      - Are the blue pants light blue or dark blue?
+      - Is the man wearing a watch or bracelet?
+      - How is the polo shirt hem positioned relative to the waistband of the pants?
+  /path_to_dataset/red shirt pants/WF522Q043-H11@16.png:
+    Caption:
+      In the image, a young man is wearing a red sweater and black pants. He
+      is standing with his hands on his hips, posing for the camera. The combination
+      of the red sweater and black
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Does the red sweater have any patterns or designs?
+      - Are the black pants tight or loose fitting?
+      - Is the man's hair styled in a particular way?
+      - Is the background of the image busy or relatively simple?
+red sweater:
+  /path_to_dataset/red sweater/SO222Q0H6-G11@13.png:
+    Caption:
+      In the image, a man is wearing a red sweater and gray pants. He is posing
+      for the camera, standing with his hands in his pockets. The red sweater and
+      gray pants create a
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the red sweater long-sleeved or short-sleeved?
+      - What type of shoes is the man wearing?
+      - Are the gray pants tight-fitting or loose-fitting?
+      - Does the red sweater have any patterns or designs?
+  /path_to_dataset/red sweater/SO222Q0H7-G11@15.png:
+    Caption:
+      In the image, a man is wearing a red v-neck sweater and blue jeans. He
+      is standing in front of a white background, posing for the camera. The red v-neck
+      swe
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What kind of neckline does the v-neck sweater have?
+      - Are the blue jeans light or dark?
+      - Is there any pattern on the v-neck sweater?
+      - Is the man standing straight or leaning slightly?
+  /path_to_dataset/red sweater/SO222Q0IS-G11@15.png:
+    Caption:
+      In the image, a man is wearing a red sweater and blue jeans. He is standing
+      in front of a white wall, smiling and posing for the camera. The red sweater
+      and blue jeans
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the red sweater long-sleeved or short-sleeved?
+      - What is the texture of the blue jeans?
+      - Is the man standing straight or leaning slightly to one side?
+      - Are the jeans tight-fitting or loose?
+  /path_to_dataset/red sweater/SO222S0AJ-G11@17.png:
+    Caption:
+      In the image, a young man is wearing a red sweater and black pants. He
+      is standing in front of a black background, posing for the camera. The red sweater
+      and black pants create a
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the red sweater long-sleeved or short-sleeved?
+      - Are the black pants tight-fitting or loose?
+      - What kind of pose is the man striking?
+      - Does the background have any additional elements besides being black?
+red tee + black pants:
+  /path_to_dataset/red tee + black pants/JL142D045-G11@10.png:
+    Caption:
+      In the image, a man wearing a red polo shirt and black pants is posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the pants tailored or casual style?
+      - Is the polo shirt buttoned up or unbuttoned?
+      - What kind of shoes is the man wearing?
+      - Is the wall smooth or textured?
+  /path_to_dataset/red tee + black pants/LA222O035-G11@5.png:
+    Caption:
+      The scene features a man wearing a red t-shirt, black pants, and black
+      shoes. He is standing with his back to the camera, posing for a picture. The
+      red t-shirt
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the black pants light or dark?
+      - What kind of pose is the man striking?
+      - Is the red t-shirt short-sleeved or long-sleeved?
+      - Are the black shoes laced or slip-on?
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@10.png:
+    Caption:
+      In the image, a man is wearing a red t-shirt and black pants. He is standing
+      in front of a white wall, posing for the camera. The red t-shirt features a
+      design
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the design on the t-shirt a single image or multiple elements?
+      - What colors are used in the design on the t-shirt?
+      - Is the design centered or off-center on the t-shirt?
+      - Are the black pants casual or formal style?
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@3.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a red
+      shirt and black pants. He has his hands on his hips, posing for the camera.
+      The red shirt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the black pants fitted or loose?
+      - What color are the man's sneakers?
+      - Is the man standing straight or leaning slightly?
+      - Are the red stripes on the shirt horizontal or vertical?
+red top:
+  /path_to_dataset/red top/PO222O07P-G11@7.png:
+    Caption: a man in a red and white striped t - shirt
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - How wide are the stripes on the t-shirt?
+      - Are the stripes vertical or diagonal?
+      - What color are the stripes besides red and white?
+      - Is the t-shirt short-sleeved or long-sleeved?
+  /path_to_dataset/red top/PO222P0DH-G11@16.png:
+    Caption:
+      In the image, a man with a beard is wearing a red polo shirt, black pants,
+      and black shoes. He has his hands on his hips and is posing for a photo.
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the red polo shirt long-sleeved or short-sleeved?
+      - What color are the man's pants?
+      - Is the man standing straight or leaning slightly?
+      - Are the black shoes shiny or matte?
+  /path_to_dataset/red top/PU142E0FD-Q11@6.png:
+    Caption:
+      In the image, a man is wearing a red t-shirt and black pants. He is standing
+      in front of a white background, posing for the camera. The red t-shirt and black
+      p
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the black pants tight-fitting or loose?
+      - What type of shoes is the man wearing?
+      - Is the red t-shirt short-sleeved or long-sleeved?
+      - Is the white background uniform or does it have any visible texture or design?
+  /path_to_dataset/red top/PUC22E06R-C12@6.1.png:
+    Caption:
+      The image features a young man wearing a red t-shirt and black pants.
+      He is standing in front of a white wall, posing for the camera. The red t-shirt
+      and black pants
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the red t-shirt short-sleeved or long-sleeved?
+      - What type of black pants is he wearing (jeans, sweatpants, etc.)?
+      - Is the wall completely white or does it have any decorations?
+      - Are the black pants loose or tight-fitting?
+same guy light pants:
+  /path_to_dataset/same guy light pants/L1922E00D-A11@5.png:
+    Caption: a woman in white pants and a white shirt
+    Questions:
+      - Is the woman facing the camera or turned away?
+      - Are her pants loose-fitting or tight-fitting?
+      - Is her shirt buttoned or unbuttoned?
+      - What kind of shoes is she wearing?
+      - Is the woman light-skinned or dark-skinned?
+  /path_to_dataset/same guy light pants/L1922E00D-B11@10.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a white t-shirt and tan pants. He has his hands on his hips and is posing for
+      the camera.
+    Questions:
+      - Is the man facing the camera directly, or is he turned slightly away?
+      - Are the tan pants loose or fitted?
+      - Is the white t-shirt he's wearing simple or decorated with any designs?
+      - What color are the man's sneakers?
+      - Is the wall smooth or textured?
+  /path_to_dataset/same guy light pants/L1922E00E-A11@8.png:
+    Caption: a man in white t - shirt and beige pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the pants straight leg or tapered?
+      - Is the shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the man wearing a watch?
+  /path_to_dataset/same guy light pants/L1922E00E-A11@9.png:
+    Caption: a man in white t - shirt and pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the pants light or dark?
+      - Is the t-shirt tucked in or left untucked?
+      - What color are the man's sneakers?
+      - Is the man standing or sitting?
+shades of green tops:
+  /path_to_dataset/shades of green tops/1FI22O00N-M11@7.png:
+    Caption:
+      In the image, a young man is wearing a neon green t-shirt and blue jeans.
+      He is standing in front of a white background, posing for the camera. The neon
+      green t-
+    Questions:
+      - Is the man facing the camera directly or slightly to the side?
+      - Are the jeans loose-fitting or tight-fitting?
+      - What is the color shade of the neon green t-shirt?
+      - Is there any pattern on the t-shirt?
+      - Are the blue jeans worn or new?
+  /path_to_dataset/shades of green tops/1FI22O020-M11@7.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a neon
+      green shirt and plaid pants. He is posing for the camera with his hands on his
+      hips, showcasing
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the plaid pants?
+      - Is the neon green shirt short-sleeved or long-sleeved?
+      - How is the man's hair styled?
+      - Is the wall textured or smooth?
+  /path_to_dataset/shades of green tops/AD542E0YK-Q11@9.png:
+    Caption:
+      In the image, a man is wearing a green t-shirt and black shorts. He is
+      standing in front of a white wall, posing for the camera. The man has a tattoo
+      on his
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the green t-shirt short-sleeved or long-sleeved?
+      - What color are the man's sneakers?
+      - Is the tattoo visible on his arm or leg?
+      - Are the black shorts tight-fitting or loose?
+  /path_to_dataset/shades of green tops/AD582H064-K11@42.png:
+    Caption:
+      In the image, a man is wearing a yellow shirt and blue shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the shorts loose-fitting or tight-fitting?
+      - What is the texture of the yellow shirt?
+      - Is the man standing straight or leaning slightly to one side?
+      - Is the wall completely white or does it have any decorations?
+shirt:
+  /path_to_dataset/shirt/PUC21S043-C12@14.png:
+    Caption:
+      In the image, a young man is wearing a floral shirt, shorts, and socks.
+      He is standing in front of a white background, posing for the camera. The floral
+      shirt and
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the shorts he is wearing?
+      - Is the floral pattern on the shirt large or small?
+      - What color are the socks he is wearing?
+      - Is the background completely white or are there any other elements visible?
+  /path_to_dataset/shirt/PUC21S043-C12@17.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a black
+      shirt, shorts, and a colorful floral shirt. He is posing for the camera, showcasing
+      his unique
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the man's shorts?
+      - Is the floral shirt tucked into his shorts or worn over them?
+      - Are the colors on the floral shirt bright or muted?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/shirt/PUC22F03N-Q11@20.png:
+    Caption:
+      In the image, a young man is wearing a striped shirt and black shorts.
+      He is standing in front of a white wall, posing for the camera. The striped
+      shirt and black shorts
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the striped shirt short-sleeved or long-sleeved?
+      - Are the stripes vertical or horizontal?
+      - What color is the wall behind him?
+      - Is the young man standing straight or leaning slightly?
+  /path_to_dataset/shirt/RE622O02N-K11@14.png:
+    Caption:
+      In the image, a young man is wearing a green and white striped shirt,
+      shorts, and sneakers. He is standing in front of a white wall, posing for the
+      camera. The sh
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on the shirt?
+      - Are the stripes on the shirt horizontal or vertical?
+      - Is the man's shirt buttoned up or unbuttoned?
+      - Are the sneakers plain or have any designs on them?
+shirt blue and grey:
+  /path_to_dataset/shirt blue and grey/KH122D03S-K11@26.png:
+    Caption:
+      In the image, a young man is standing in front of a black background,
+      wearing a short-sleeved shirt and shorts. The shirt has a blue and white checkered
+      pattern, and the short
+    Questions:
+      - Is the young man facing the camera or turned away from it?
+      - Is the shirt collar buttoned or unbuttoned?
+      - What color are the shorts?
+      - Is the man wearing any accessories, like a hat or watch?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/shirt blue and grey/KH122D03T-K11@26.png:
+    Caption:
+      There is a man standing in front of a white wall, wearing a blue shirt
+      and black shorts. He has his hands on his hips and is posing for a photo.
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the blue shirt a solid color or does it have a pattern?
+      - What color are the man's shorts?
+      - Are the shorts loose-fitting or tight-fitting?
+      - Is the man standing with his feet shoulder-width apart or closer together?
+  /path_to_dataset/shirt blue and grey/SE622D0ZG-K11@17.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and black pants. He is standing
+      with his hands on his hips, posing confidently for the camera. The blue shirt
+      and black pants
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the shirt long-sleeved or short-sleeved?
+      - Are the pants straight legged or tapered?
+      - Is the man's skin tone light or dark?
+      - What is the texture of the blue shirt?
+  /path_to_dataset/shirt blue and grey/SE622D117-A11@15.png:
+    Caption:
+      In the image, a man is standing with his back to the camera, wearing
+      a blue shirt and black pants. He has his hands in his pockets, giving a casual
+      and relaxed appearance. The
+    Questions:
+      - Is the man's shirt buttoned up or unbuttoned?
+      - Are the pants creased or relatively smooth?
+      - What color are the man's sneakers or other footwear?
+      - Is the man's hair short or long?
+      - Is the man facing slightly to the right or left when turned away from the camera?
+soccer:
+  /path_to_dataset/soccer/AD542D2K5-A11@12.png:
+    Caption:
+      adi adi originals originals originals originals originals originals originals
+      originals originals originals originals originals originals originals originals
+      originals originals originals originals
+    Questions:
+      - Is Adi facing the camera or turned away?
+      - Is the shirt Adi is wearing tucked in or untucked?
+      - What color are the shorts Adi is wearing?
+      - Are the sneakers Adi is wearing white or a different color?
+      - Is Adi standing alone or with someone else?
+  /path_to_dataset/soccer/AD542D2M9-A11@8.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black pants.
+      He has a tattoo on his left arm, which adds a unique touch to his overall appearance.
+      The tatto
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What is the design or pattern of the tattoo on his left arm?
+      - Are the black pants tight or loose fitting?
+      - Is the t-shirt short-sleeved or long-sleeved?
+      - Is the man standing or sitting?
+  /path_to_dataset/soccer/AD542E17Z-Q11@9.png:
+    Caption: adidas originals originals - tracksuit - black
+    Questions:
+      - Is the person facing the camera or turned away from it?
+      - Is the tracksuit made of a smooth or textured fabric?
+      - What color are the stripes on the tracksuit?
+      - Is the person wearing a hat with the tracksuit?
+      - Are the tracksuit pants long or short?
+  /path_to_dataset/soccer/AD542E1EJ-K12@27.1.png:
+    Caption: adidas originals originals - panske - white / collegiate blue
+    Questions:
+      - Are the shoes laced up or slip-on?
+      - Is the white part of the shoe a solid color or does it have a pattern?
+      - Are the sneakers made of leather or synthetic material?
+      - Is the collegiate blue part of the shoe on the sides or the toe?
+      - Is the shoe design minimalist or detailed?
+striped black top:
+  /path_to_dataset/striped black top/GLE22E00L-Q11@7.png:
+    Caption:
+      In the image, a man is wearing a black and gold striped t-shirt, black
+      pants, and white sneakers. He is standing with his back to the camera, giving
+      a full view of
+    Questions:
+      - What is the width of the stripes on the t-shirt?
+      - Are the stripes on the t-shirt horizontal, vertical, or diagonal?
+      - Is the man wearing a watch or any other accessories on his wrist?
+      - What is the color of the man's hair?
+      - Is the man standing straight or leaning slightly to one side?
+  /path_to_dataset/striped black top/KK122E00J-Q11@11.png:
+    Caption:
+      In the image, a man is wearing a black striped shirt and black sweatpants.
+      He is standing with his back to the camera, posing for a picture. The combination
+      of the striped sh
+    Questions:
+      - Is the man's pose relaxed or stiff?
+      - Are the stripes on the shirt horizontal, vertical, or diagonal?
+      - What color are the soles of his sneakers?
+      - Is the sweatshirt worn over the shirt or pulled down?
+      - Are the stripes thin or wide?
+  /path_to_dataset/striped black top/KK122E00J-Q11@9.png:
+    Caption:
+      The image features a young man wearing a black and white striped shirt,
+      black pants, and white sneakers. He is standing in front of a white wall, posing
+      for the camera. The black
+    Questions:
+      - Is the man facing the camera directly, or has he turned slightly to one side?
+      - How many stripes are there on the man's shirt?
+      - Are the stripes on the shirt thin or thick?
+      - Is the man's hair styled neatly or is it messy?
+      - Are the sneakers laced up or left unlaced?
+  /path_to_dataset/striped black top/NL022O0FA-M11@11.png:
+    Caption:
+      In the image, a young man is wearing a green and black striped t-shirt
+      and jeans. He is standing with his hands on his hips, posing for the camera.
+      The t-sh
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What is the color of the stripes on his t-shirt?
+      - Are the jeans light or dark green?
+      - Is the man's pose casual or more formal?
+      - Is there any other object in the background?
+striped shirt shorts:
+  /path_to_dataset/striped shirt shorts/DR222D01U-A11@9.png:
+    Caption: a man in a striped shirt and shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on his shirt?
+      - Are the shorts loose or fitted?
+      - Is the man wearing socks with the shorts?
+      - Are the shorts light or dark?
+  /path_to_dataset/striped shirt shorts/GOG22O02X-M11@7.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a green
+      and black striped t-shirt and black shorts. He appears to be posing for a photo.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - How many stripes are there on the t-shirt?
+      - Is the t-shirt tucked into the shorts or left untucked?
+      - Are the shorts loose-fitting or tight-fitting?
+      - Is the wall plain white or has any decorations?
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@11.png:
+    Caption:
+      There is a man wearing a striped shirt and blue denim shorts, standing
+      in front of a white wall. He has a tattoo on his left arm and is posing for
+      the camera. The
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on the shirt?
+      - Is the man's skin light or dark?
+      - Are the shorts tight or loose fitting?
+      - What does the tattoo on his left arm look like?
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@8.png:
+    Caption: a man in a striped shirt and denim shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the stripe pattern vertical, horizontal, or diagonal?
+      - Are the shorts loose or tight fitting?
+      - What color are the stripes on the shirt?
+      - Is the man standing still or moving?
+sweate stripes:
+  /path_to_dataset/sweate stripes/PJ422G02W-Q11@13.png:
+    Caption: a man in a striped shirt and black pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the stripes on his shirt?
+      - Are the stripes vertical or horizontal?
+      - Is the shirt tucked into his pants or worn over them?
+      - Are the pants light or dark black?
+  /path_to_dataset/sweate stripes/PJ422G03O-Q11@35.png:
+    Caption:
+      In the image, a man is wearing a gray sweater and black pants. He is
+      standing with his hands in his pockets, creating a casual and relaxed pose.
+      The sweater and pants are
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the gray sweater long-sleeved or short-sleeved?
+      - What is the texture of the black pants?
+      - Are the pants loose-fitting or tight-fitting?
+      - Is the man standing with his feet together or apart?
+  /path_to_dataset/sweate stripes/PUC22E030-K11@4.1.png:
+    Caption:
+      In the image, a young man is wearing a sweater and pants. He is standing
+      with his hands on his hips, posing for the camera. The sweater he is wearing
+      is multi-color
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Are the pants light or dark?
+      - What colors are present in the sweater besides multi-color?
+      - Is the pose casual or formal?
+      - Are there any accessories like a hat or glasses?
+  /path_to_dataset/sweate stripes/PUC22E030-K11@5.1.png:
+    Caption:
+      In the image, a young man is wearing a sweater and posing for a photo.
+      He is standing against a plain white background, with his hands on his hips.
+      The sweater he is wearing is
+    Questions:
+      - Is the young man facing the camera or turned away?
+      - Is the sweater long-sleeved or short-sleeved?
+      - What color is the sweater?
+      - Is the sweater patterned or solid?
+      - Are the hands he has on his hips crossed or uncrossed?
+tennis:
+  /path_to_dataset/tennis/L0642D003-Q11@13.png:
+    Caption: a man wearing a black t - shirt and white shorts
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the t-shirt tight-fitting or loose?
+      - What color are the man's sneakers?
+      - Are the shorts lightweight or heavy?
+      - Is the man dark-skinned or light-skinned?
+  /path_to_dataset/tennis/L0642D003-Q11@15.png:
+    Caption:
+      In the image, a man wearing a black polo shirt and white shorts is holding
+      a tennis racket. He is standing in front of a white wall, which serves as a
+      backdrop for the image.
+    Questions:
+      - Is the man facing the tennis racket or turned away from it?
+      - What color are the stripes on the polo shirt?
+      - Are the shorts loose or tight fitting?
+      - Is the wall behind him textured or smooth?
+      - Is the man standing straight or leaning slightly to the side?
+  /path_to_dataset/tennis/L0642D03M-Q11@9.png:
+    Caption: a man in a blue shirt and white shorts
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Is the shirt long-sleeved or short-sleeved?
+      - What is the texture of the shorts?
+      - Are the shorts light or dark white?
+      - Is the man standing or sitting?
+  /path_to_dataset/tennis/L0642D03O-Q11@3.png:
+    Caption:
+      In the image, a young man is posing with a tennis racket, wearing a black
+      shirt and white shorts. He is standing in front of a white wall, holding the
+      tennis racket in his right
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Is the black shirt he is wearing patterned or solid?
+      - What color are the soles of the man's sneakers?
+      - Is the tennis racket he's holding made of wood or graphite?
+      - Is the man standing with his feet shoulder-width apart or closer together?
+total black:
+  /path_to_dataset/total black/JU622P01E-Q11@8.png:
+    Caption:
+      The scene features a young man wearing a black polo shirt, black pants,
+      and a black hat. He is standing in front of a white wall, posing for the camera.
+      The polo shirt
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the pants loose or tight fitting?
+      - What color are the man's shoes?
+      - Is the hat worn on the side or centered on the head?
+      - Is the man holding anything in his hands?
+  /path_to_dataset/total black/JU622P01K-Q11@9.png:
+    Caption:
+      In the image, a young man is wearing a black shirt and black pants. He
+      is standing with his hands on his hips, posing for the camera. The black shirt
+      and pants he is
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the black pants tight-fitting or loose?
+      - Is the shirt long-sleeved or short-sleeved?
+      - What color are the man's sneakers?
+      - Is the man's hair styled neatly or messy?
+  /path_to_dataset/total black/JU622S02W-Q11@11.png:
+    Caption:
+      In the image, a young man is wearing a black leopard-print shirt, black
+      pants, and black shoes. He is standing in front of a white wall, posing for
+      the camera.
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Does the leopard print have spots that are large or small?
+      - Are the pants tight-fitting or loose-fitting?
+      - What color is the man's hair?
+      - Is the wall smooth or textured?
+  /path_to_dataset/total black/JU622S031-Q11@11.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and black leather
+      pants. He is standing against a white wall, posing for the camera. The sweatshirt
+      has an orange
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What is the texture of the sweatshirt?
+      - Does the sweatshirt have any other colors besides black and orange?
+      - Is there any design or print on the orange part of the sweatshirt?
+      - Are the leather pants tight or loose fitting?
+underpants:
+  /path_to_dataset/underpants/5JO82O00H-Q11@7.2.png:
+    Caption: a man in black tights and black underwear
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the tights tight-fitting or loose?
+      - What is the texture of the tights?
+      - Are the underwear visible through the tights?
+      - Is the man wearing any additional clothing over the tights?
+  /path_to_dataset/underpants/N1242E183-C11@10.1.png:
+    Caption:
+      In the image, a shirtless man is standing with his back to the camera,
+      wearing a pair of gray and black leggings. The leggings are made of moisture-wicking
+      fabric,
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color is the fabric of the leggings?
+      - Are the leggings tight-fitting or loose-fitting?
+      - Is the man wearing any accessories, such as a hat or a watch?
+      - What is the texture of the leggings?
+  /path_to_dataset/underpants/N1242E186-C11@10.png:
+    Caption:
+      In the image, a man is wearing a gray long-sleeved shirt and black shorts.
+      He is standing with his back to the camera, showcasing his clothing and fabrics.
+      The man
+    Questions:
+      - Is the man's shirt buttoned up or unbuttoned?
+      - What kind of texture does the gray long-sleeved shirt have?
+      - Are the shorts loose or fitted?
+      - What is the color of the fabric used for the shirt?
+      - Is there any pattern on the man's shirt?
+  /path_to_dataset/underpants/N1242E186-C11@12.png:
+    Caption: a man in grey and black underwear
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the grey parts of the underwear?
+      - Are the black parts of the underwear smooth or textured?
+      - Is the man wearing any additional clothing over the underwear?
+      - Are the underwear tight-fitting or loose?
+underwear:
+  /path_to_dataset/underwear/C1182O01R-Q11@7.1.png:
+    Caption:
+      In the image, a shirtless man is standing in front of a white wall, wearing
+      black boxer briefs. He is posing for the camera, showcasing his toned body.
+      The boxer
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the boxer briefs patterned or solid?
+      - Is the man standing with his feet together or apart?
+      - What is the texture of the white wall behind him?
+      - Is the man's skin light or dark?
+  /path_to_dataset/underwear/DR282O000-Q11@8.2.png:
+    Caption: a man in black underwear stands against a white wall
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the walls surrounding the white wall?
+      - Is the man standing straight or leaning against the wall?
+      - Are there any decorations or objects on the white wall?
+      - Is the man wearing any socks with his black underwear?
+  /path_to_dataset/underwear/JA282H016-G11@7.1.png:
+    Caption:
+      In the image, a shirtless man is wearing red swim trunks and posing for
+      a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - Are the swim trunks short or long?
+      - What kind of pose is the man striking?
+      - Is the wall textured or smooth?
+      - Is there any writing or decoration on the wall?
+  /path_to_dataset/underwear/PO282O000-K35@9.1.png:
+    Caption: a man wearing a red boxer briefs
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the boxer briefs besides red?
+      - Are the boxer briefs tight-fitting or loose?
+      - Is there any design or pattern on the boxer briefs?
+      - Are the boxer briefs made of cotton or another material?
+white shirt black pants:
+  /path_to_dataset/white shirt black pants/ES422A07M-C12@17.png:
+    Caption:
+      In the image, a man is wearing a white dress shirt and navy pants. He
+      is standing with his back to the camera, giving a full view of his outfit. The
+      man's clothing
+    Questions:
+      - Is the man facing the camera or turned away from it?
+      - What color are the man's shoes?
+      - Is the dress shirt tucked into the pants or left untucked?
+      - Is there a pattern on the navy pants?
+      - Are the pants loose or tight fitting?
+  /path_to_dataset/white shirt black pants/ES422E039-K11@14.png:
+    Caption: a man in a white sweater and black pants
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the pants tight or loose fitting?
+      - Is the sweater buttoned up or unbuttoned?
+      - What color are the man's shoes?
+      - Is the man light-skinned or dark-skinned?
+  /path_to_dataset/white shirt black pants/MI422D050-A11@5.png:
+    Caption: a man in a white shirt and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the jeans tight-fitting or loose?
+      - Is the shirt buttoned up or untucked?
+      - What color are the man's shoes?
+      - Are the jeans light or dark?
+  /path_to_dataset/white shirt black pants/TOB22O01B-A11@12.png:
+    Caption: a man in a white sweater and jeans
+    Questions:
+      - Is the man facing the camera or turned away?
+      - What color are the jeans?
+      - Is the sweater loose or fitted?
+      - Are the jeans light or dark?
+      - Is the man standing or sitting?
+yellow tee:
+  /path_to_dataset/yellow tee/N1242E0M5-A11@14.png:
+    Caption:
+      In the image, a man is wearing a yellow and white polo shirt, shorts,
+      and sneakers. He is standing with his back to the camera, showcasing his tattoos
+      on his
+    Questions:
+      - Is the man facing away from or towards the camera?
+      - What colors are the stripes on the polo shirt?
+      - Are the shorts light or dark?
+      - What kind of tattoos does the man have?
+      - Are the sneakers white or yellow?
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@13.1.png:
+    Caption: nike tennis - tennis shorts
+    Questions:
+      - Are the shorts made of cotton or synthetic material?
+      - What color are the shorts?
+      - Are the shorts patterned or solid?
+      - Is the logo of Nike visible on the shorts?
+      - Are the shorts loose-fitting or tight-fitting?
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@15.1.png:
+    Caption:
+      The scene features a man wearing a yellow and white polo shirt, black
+      shorts, and white sneakers. He is standing in front of a white wall, showcasing
+      his clothing and fabrics
+    Questions:
+      - Is the man facing the camera or turned away?
+      - Are the stripes on the polo shirt horizontal or vertical?
+      - What color are the shorts besides black?
+      - Are the sneakers laced up or slip-ons?
+      - Is the wall behind him smooth or textured?
+  /path_to_dataset/yellow tee/NOU22O00J-E11@5.png:
+    Caption:
+      In the image, a man is wearing a yellow long-sleeved shirt and black
+      shorts. He is standing with his back to the camera, showcasing his clothing
+      and fabrics. The yellow
+    Questions:
+      - Is the man's shirt button-down or turtleneck?
+      - What is the texture of the man's black shorts?
+      - Are the shorts tight-fitting or loose?
+      - Is the yellow shirt patterned or solid?
+      - What color are the man's sneakers?

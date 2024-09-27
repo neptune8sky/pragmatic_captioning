@@ -1,0 +1,149 @@
+# File paths and directories
+paths:
+  config: "/lustre/fast/fast/ntomasz/PRAG_CAP/prag_cap_new/config.yaml"
+  dataset: "/lustre/fast/fast/ntomasz/final dataset/final dataset"
+  output: "out"
+  dataset_structure: "data/dataset_structure.yaml"
+# Prompt templates
+prompts:
+  # Prompt for the initial caption from BLIP2
+  initial_caption: "Caption this image in detail. Considere the person, pose, clothing, colors, clothing details, fabrics, then provide a comprehensive description of the scene in a single, well-structured sentence. IMPORTANT: IGNORE THE WHITE WALL IN THE IMAGE."
+
+  # Prompt to generate questions to a caption with an LLM
+  prompt_for_questions: |
+    You are an AI assistant specialized in generating insightful questions about images based on vague captions. Your task is to create questions that elicit more detailed information about the image, going beyond what's explicitly stated in the reference caption.
+
+    Instructions:
+
+    1. You will be given a REFERENCE caption that broadly describes an image.
+    2. Generate exactly 5 questions about the image.
+    3. Focus on aspects that are likely to be visible in the image but not mentioned in the reference caption.
+    4. Ensure your questions cannot be directly answered by the information already provided in the reference caption.
+    5. Frame your questions around elements that are typically present in images, such as:
+      - Specific visual details about mentioned objects or people, but don't ask things that cannot be deducted from the image, e.g. height, weight, eye color, age.
+      - Colors, textures, or patterns of the clothing (e.g. is there any pattern on a shirt?). But AVOID too specific questions like price and size of clothing.
+      - ALWAYS INCLUDE question about spatial relationships and composition (e.g. is person facing the camera or is turned away?)
+      - Actions or poses of subjects (e.g. what is the person doing?)
+      - Additional objects (e.g. is the person wearing a long or short sleeve shirt?)
+    6. IMPORTANT: AVOID ASKING SPECULATIVE QUESTIONS about things that are unlikely to be discernible from an image (e.g., EMOTIONS/EXPRESSION, NAME, PROFESSION/OCCUPATION, THOUGHTS, or NON-VISUAL INFROMATION).
+    7. Present your response as a bullet-point list containing ONLY the questions, nothing else.
+    8. MAKE SURE every question adresses a DIFFERENT aspect of the image.
+    9. DON'T ASK QUESTIONS ABOUT OBJECTS THAT ARE NOT MENTIONED IN THE CAPTION. ONLY ASK ABOUT THINGS THAT ARE IN THE CAPTION.
+    9. The questions should be different from one another, to maximize chances of precisely describing the image.
+
+    REFERENCE: a man in blue jeans and a black t - shirt and shoes
+
+    ANSWER:
+      - Is the person facing towards or away from the camera?
+      - Are his jeans light or dark blue?
+      - What kind of shoes is he wearing?
+      - Is the shirt tucked in or left untucked?
+      - Is the man dark-skinned or light-skinned?
+
+    REFERENCE: a man in yellow sweater and blue shorts and sneakers
+
+    ANSWER:
+      - Is the man facing the camera, or is his turned away from it?
+      - Is his sweater oversize or regular fit?
+      - What is the color of his sneakers?
+      - Is the man light-skinned or dark-skinned?
+      - Are his shorts dark blue or light blue?
+
+
+    Now, generate 5 questions based on the following reference caption:
+
+    REFERENCE: {og_caption}
+
+    ANSWER:
+
+  prompt_for_answers_blip2: |
+    {question}
+
+    IMPORTANT:
+    - NEVER include information that you cannot see in the image, even if the question is asking about it.
+    - Your answers should be brief and to the point.
+    - Do not repeat the question in your answer.
+    - If you cannot answer the question based on the image, say so clearly.
+
+    REMEMBER: Your primary goal is to provide accurate information based solely on what you can observe in the image. Avoid making assumptions or providing information that is not visible in the image.
+
+  # Prompt to combine a question and an answer with the original caption
+  prompt_for_combining: |
+    You are a very precise assistant that helps with captioning images.
+    1. You will be given a caption, question and an answer to this question.
+    2. Enrich the caption with the information from the answer.
+    3. Your output must be a single, concise but informative caption.
+    4. Answer only in a single, brief sentence that carries relevant to the candidate caption information.
+
+
+    IMPORTANT: NEVER include information that is not mentioned in the provided questions and answers. DON'T INCLUDE ANY BACKGROUND INFORMATION.
+
+    Caption: A man sitting on a couch with a dog.
+    Question: What is the color of the couch?
+    Answer: Red.
+    NEW CAPTION: A man sitting on a red couch with a dog.
+
+    Caption: Boy is jumping on a trampoline.
+    Question: Is the trampoline inside?
+    Answer: Yes.
+    NEW CAPTION: A boy jumping on an indoor trampoline.
+
+    Caption: a man in black jeans and a black t - shirt
+    Question: Is the man wearing any accessories?
+    Answer: No.
+    NEW CAPTION: a man in black jeans and a black t - shirt.
+
+    Caption: {caption}
+    Question: {question}
+    Answer: {answer}
+    NEW CAPTION:
+
+  # Prompt for taking multiple caption candidates for target and distractor images
+  # and choosing a single pragmatic caption to set apart the target from distractors
+  prompt_for_pragmatic_caption: |
+    You are an expert image-captioning AI trained to generate highly distinctive and pragmatic image captions.
+
+    Pragmatic image captioning is the task of generating captions that are not only accurate descriptions of an image, but also informative and relevant in distinguishing the target image from similar images.
+
+    Follow this process to arrive at the final caption:
+      1. Analyze all the captions.
+      2. Define absolutely unique features of the target image that are absent from ALL distractor captions.
+      3. **Avoid including any information not provided in the captions** (e.g., don't make assumptions about the image).
+      4. **Craft ONE brief yet informative sentence** that highlights only these unique features and effectively distinguishes the target image from the distractors.
+
+      Important:
+    * The final caption should contain only information explicitly mentioned in the provided target captions, NEVER INCLUDE INFORMATION THAT IS WRONG OR NOT MENTIONED IN THE DICTIONARY
+    * The caption should most accurately describe the target image and least apply to the distractor images.
+    * The final caption must be NO MORE THAN **ONE SENTENCE**.
+    * **Exclude elements from the pragmatic caption that are shared by both the target and distractor images**.
+    * Focus on the most distinctive features, even if they seem minor. Sometimes small details can be crucial for differentiation.
+    * Avoid using negative statements (e.g., "not wearing a hat").
+    * If there are no clear unique features or the differences are subtle, focus on the combination of features that best distinguishes the target image.
+    * DON'T MIX UP INFORMATION FROM DISTRACTORS AND TARGET IMAGES.
+    * Create a SINGLE caption consisting of a SINGLE SENTENCE for the target image that immediately sets it apart from similar distractor images, focusing only on the information provided in the captions.
+    * Only return the pragmatic caption, nothing else.
+
+
+    1. **Target image captions**: [a man in a turquoise sweater and jeans. His sweater is tucked in., a dark-skinned man in a turquoise sweater and jeans., A man facing backwards in a turquoise sweater and jeans.]
+    2. **Distractor image captions** [[distractor_image_1.png: The man is wearing a green sweater and jeans. His shoes are black., The man is wearing a green sweater and jeans and is facing forwards.],
+    [distractor_image_2.png: The man is wearing a green sweater and jeans with sneakers., The light-skinned man is wearing a green sweater and jeans with white sneakers., The man is wearing a green sweater and jeans facing forward.]
+    [distractor_image_3.png: The man is wearing a teal sweater and black pants and white shoes., The man is wearing a tucked-out teal sweater and black pants., The man is wearing a teal sweater and black pants and white shoes and is facing forward.]]
+
+    PRAGMATIC CAPTION: dark skinned man is facing backward in a tucked in turquoise sweater.
+
+
+    1. **Target image captions**: {target_dict}
+    2. **Distractor image captions**: {distractor_dict}
+
+    PRAGMATIC CAPTION:
+
+params:
+  blip2:
+    # BLIP2-Instruct captioning parameters
+    max_new_tokens: 45
+    num_beams: 5
+    temperature: 0.5 # 0.6
+    top_k: 50
+    top_p: 0.97
+    repetition_penalty: 1.2
+    length_penalty: 0.5 # 0.8

@@ -1,0 +1,459 @@
+basketball:
+  /path_to_dataset/basketball/FAV42D00P-K11@3.png:
+    Caption: a man in a baseball jersey shirt and black pants
+  /path_to_dataset/basketball/MN842D021-M11@3.png:
+    Caption: a man wearing a green basketball uniform
+  /path_to_dataset/basketball/MN842D0A2-P11@8.png:
+    Caption: a man in a green shirt and shorts
+  /path_to_dataset/basketball/N1242D286-K11@22.png:
+    Caption: nike manchester city fc 2019 / 20 home kit
+beige pants:
+  /path_to_dataset/beige pants/LA222O03C-A11@15.png:
+    Caption: a man in a white shirt and brown pants
+  /path_to_dataset/beige pants/M3I22D0A8-A11@27.png:
+    Caption: a man in a white shirt and grey pants
+  /path_to_dataset/beige pants/MA322D0ML-A11@17.png:
+    Caption: a man in a white shirt and khaki pants
+  /path_to_dataset/beige pants/MA322E067-O11@16.png:
+    Caption: a man in a white t - shirt and khaki pants
+beige pants + blue:
+  /path_to_dataset/beige pants + blue/MA322D0LZ-K11@3.png:
+    Caption: a man in a blue shirt and khaki pants
+  /path_to_dataset/beige pants + blue/MA322D0MH-K11@13.png:
+    Caption: a man in a blue shirt and khaki pants
+  /path_to_dataset/beige pants + blue/MA322D0ML-K11@17.png:
+    Caption: a man in a blue shirt and khaki pants
+  /path_to_dataset/beige pants + blue/MA322P05I-K11@17.png:
+    Caption: a man wearing a blue polo shirt and khaki pants
+bike shorts:
+  /path_to_dataset/bike shorts/C6642D02S-N11@7.png:
+    Caption: a man in a green shirt and black shorts
+  /path_to_dataset/bike shorts/C6642I00Y-Q11@9.2.png:
+    Caption: a man in a gray shirt and black trunks
+  /path_to_dataset/bike shorts/GOD42E00E-Q11@8.png:
+    Caption: a man in a white shirt and black shorts
+  /path_to_dataset/bike shorts/GOD42K006-Q12@9.png:
+    Caption: a man in a white shirt and black shorts
+black&white:
+  /path_to_dataset/black&white/EA822P00M-K12@3.png:
+    Caption: a man in a black polo shirt and white pants
+  /path_to_dataset/black&white/EA822P00M-Q11@5.png:
+    Caption: a man in a black polo shirt and white pants
+  /path_to_dataset/black&white/TP822E09Y-K11@12.png:
+    Caption: a man wearing a white t - shirt and striped pants
+  /path_to_dataset/black&white/VA222O09D-A11@15.1.png:
+    Caption: a man in a white t - shirt and black pants
+blue pants + white top:
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@10.png:
+    Caption: a man in a white polo shirt and blue pants
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@9.png:
+    Caption: a man in a white t - shirt and blue pants
+  /path_to_dataset/blue pants + white top/PO282L00O-K12@10.png:
+    Caption: a man in a white tank top and blue striped pants
+  /path_to_dataset/blue pants + white top/PUC22G0AQ-K13@8.1.png:
+    Caption: a man wearing a white t - shirt and jeans
+blue short:
+  /path_to_dataset/blue short/VA442D011-C11@11.png:
+    Caption: a man wearing a blue t - shirt and shorts
+  /path_to_dataset/blue short/VA442E011-K11@9.png:
+    Caption: a man wearing a grey t - shirt and blue shorts
+  /path_to_dataset/blue short/VA442E011-K12@6.png:
+    Caption: a man wearing a white t - shirt and blue shorts
+  /path_to_dataset/blue short/VA442E01Y-K11@7.png:
+    Caption: a man wearing a black t - shirt and blue shorts
+blue shorts black top:
+  /path_to_dataset/blue shorts black top/RE542E0HF-K11@30.png:
+    Caption: a man in a black shirt and blue pants
+  /path_to_dataset/blue shorts black top/RE542E0LQ-K11@21.png:
+    Caption: a man in a black shirt and blue shorts
+  /path_to_dataset/blue shorts black top/RE542E0LY-K11@23.png:
+    Caption: a man in a black shirt and blue shorts
+  /path_to_dataset/blue shorts black top/S2042E014-K11@7.png:
+    Caption: nike - dry short - sports shorts - black / blue
+blue sweater blue jeans:
+  /path_to_dataset/blue sweater blue jeans/JO922Q01S-K11@13.png:
+    Caption: a man in a navy sweater and jeans
+  /path_to_dataset/blue sweater blue jeans/JO922Q01Y-K11@40.png:
+    Caption: a man in a navy sweater and light blue pants
+  /path_to_dataset/blue sweater blue jeans/P3222Q02L-K12@28.png:
+    Caption: a man wearing a blue sweater and striped pants
+  /path_to_dataset/blue sweater blue jeans/TO222Q0G1-K11@9.png:
+    Caption: a man in a blue sweater and jeans
+blue tees similar styles:
+  /path_to_dataset/blue tees similar styles/L7422O012-K11@12.png:
+    Caption: a man in a blue shirt and jeans
+  /path_to_dataset/blue tees similar styles/L7422P00E-K12@17.png:
+    Caption: a man in a blue polo shirt and jeans
+  /path_to_dataset/blue tees similar styles/L7422P00F-K11@15.png:
+    Caption: a man in a blue polo shirt and jeans
+  /path_to_dataset/blue tees similar styles/L7422P00F-K12@17.png:
+    Caption: a man in a blue polo shirt and jeans
+blue top:
+  /path_to_dataset/blue top/SO222P07V-K11@10.png:
+    Caption: a man in a blue polo shirt and black pants
+  /path_to_dataset/blue top/SO222P08K-L11@13.png:
+    Caption: a man in a blue polo shirt and jeans
+  /path_to_dataset/blue top/SO222P08K-L11@15.png:
+    Caption: a man in a blue polo shirt and jeans
+  /path_to_dataset/blue top/SU222S0TF-C12@28.png:
+    Caption: a man wearing a hoodie and sweat pants
+burgundy pyjama:
+  /path_to_dataset/burgundy pyjama/L0622P003-G11@33.png:
+    Caption: a man in a red shirt and blue shorts
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@3.png:
+    Caption: a man in a maroon t - shirt and shorts
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@5.png:
+    Caption: a man in a maroon t - shirt and shorts
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@7.png:
+    Caption: a man wearing a maroon t - shirt and shorts
+business shirt:
+  /path_to_dataset/business shirt/JO922D05E-K13@4.1.png:
+    Caption: a man in a white shirt and blue pants
+  /path_to_dataset/business shirt/M9122D1MF-K12@14.png:
+    Caption: a man in a blue shirt and jeans
+  /path_to_dataset/business shirt/MA322D0N8-K11@15.png:
+    Caption: a man in a blue shirt and pants
+  /path_to_dataset/business shirt/OL422D073-K11@11.png:
+    Caption: a man in a blue shirt and black pants
+checked shirt:
+  /path_to_dataset/checked shirt/NN922E009-K11@10.png:
+    Caption: a man in a plaid shirt and jeans
+  /path_to_dataset/checked shirt/PUC22D07P-A11@17.png:
+    Caption: a man wearing a black and white checkered shirt
+  /path_to_dataset/checked shirt/PY522D015-A12@21.png:
+    Caption: a man in a plaid shirt and black pants
+  /path_to_dataset/checked shirt/SE622D11T-A11@17.png:
+    Caption: a man in a plaid shirt and jeans
+dark pyjama:
+  /path_to_dataset/dark pyjama/5JO82N002-Q11@8.png:
+    Caption: a man in a navy blue pj pj pj pj pj pj pj p
+  /path_to_dataset/dark pyjama/TO282M00G-K11@10.png:
+    Caption: a man wearing a grey and black pajamas
+  /path_to_dataset/dark pyjama/TO282M010-K11@6.png:
+    Caption: a man wearing a blue and black checkered pj pj pj pjj pjjjjjjjjjjjjjjjjjjjjjjjjjj
+  /path_to_dataset/dark pyjama/TO282M010-K11@8.png:
+    Caption: a man wearing a blue and black checkered pj pj pj pjj pjjjjjjjjjjjjjjjjjjjjjjjjjj
+dif red tees:
+  /path_to_dataset/dif red tees/BB122P06I-G11@4.1.png:
+    Caption: a man in a red polo shirt and black pants
+  /path_to_dataset/dif red tees/BB122P07B-G11@6.1.png:
+    Caption: a man in a red shirt and blue pants holding a golf club club ball
+  /path_to_dataset/dif red tees/C6642E021-Q11@8.png:
+    Caption: a man in a red shirt and black shorts
+  /path_to_dataset/dif red tees/WR122S01O-G11@8.png:
+    Caption: a man in a red sweater and black jeans
+funky shirt:
+  /path_to_dataset/funky shirt/BQ022O00Z-A11@11.png:
+    Caption: a man in a striped shirt and khaki pants
+  /path_to_dataset/funky shirt/FA522D04X-K11@14.png:
+    Caption: a man in a blue shirt and white pants
+  /path_to_dataset/funky shirt/FA522E00W-E11@5.png:
+    Caption: a man in a blue shirt and yellow pants
+  /path_to_dataset/funky shirt/TM022D08Z-K11@27.png:
+    Caption: a man in a blue and white checkered shirt and khaki pants
+funny pants:
+  /path_to_dataset/funny pants/VEI22F006-Q11@7.png:
+    Caption: a man wearing a black sweatshirt and yellow floral shorts
+  /path_to_dataset/funny pants/VEI22F006-Q11@9.png:
+    Caption: a man in a black sweatshirt and yellow shorts
+  /path_to_dataset/funny pants/VEI22G00U-Q11@7.png:
+    Caption: a man in a black shirt and yellow pants
+  /path_to_dataset/funny pants/VEI22O00V-Q11@8.png:
+    Caption: a man wearing a yellow and blue t - shirt with a black and yellow print
+generic white and grey top:
+  /path_to_dataset/generic white and grey top/PUC22O0NH-A11@18.png:
+    Caption: a young boy wearing a white t - shirt and black shorts
+  /path_to_dataset/generic white and grey top/PUC22O0NY-A11@13.png:
+    Caption: a man wearing a white t - shirt and black pants
+  /path_to_dataset/generic white and grey top/SO422S025-C11@11.png:
+    Caption: a man in a grey hoodie and brown pants
+  /path_to_dataset/generic white and grey top/TR122E01B-Q11@3.png:
+    Caption: a man in a white t - shirt and black pants
+green striped tee:
+  /path_to_dataset/green striped tee/JA222O2UW-E11@17.png:
+    Caption: a man wearing a striped t - shirt and jeans
+  /path_to_dataset/green striped tee/JA222O2UY-M11@21.png:
+    Caption: a man wearing a striped t - shirt and jeans
+  /path_to_dataset/green striped tee/JA222O2UY-M11@23.png:
+    Caption: a man in a striped shirt and jeans
+  /path_to_dataset/green striped tee/LE222P00A-M11@8.png:
+    Caption: a man in a green polo shirt and jeans
+green top:
+  /path_to_dataset/green top/QS122Q05F-P11@17.png:
+    Caption: a man wearing a green sweater and black pants
+  /path_to_dataset/green top/QS122Q05G-P11@14.png:
+    Caption: a man in a green sweater and jeans
+  /path_to_dataset/green top/QS122Q05G-P11@17.png:
+    Caption: a man in a green sweater and jeans
+  /path_to_dataset/green top/QS122Q05N-P11@4.1.png:
+    Caption: a man in a green sweater and jeans
+green-ish pants:
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@7.png:
+    Caption: a man wearing a black t - shirt and khaki pants
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@9.png:
+    Caption: a man in a black t - shirt and khaki pants
+  /path_to_dataset/green-ish pants/OS322S0F1-Q11@14.png:
+    Caption: a man in a black sweater and grey pants
+  /path_to_dataset/green-ish pants/UN242D0HN-Q11@13.1.png:
+    Caption: a man in a black shirt and khak pants
+grey + black:
+  /path_to_dataset/grey + black/PU142D0V9-Q11@8.png:
+    Caption: pu sweat shorts - grey
+  /path_to_dataset/grey + black/SO222S08U-K11@10.png:
+    Caption: a man in a grey hoodie and black pants
+  /path_to_dataset/grey + black/SU222E072-Q11@15.png:
+    Caption: a man in a striped sweater and black pants
+  /path_to_dataset/grey + black/SU222S173-C11@10.png:
+    Caption: a man wearing a grey sweater and jeans
+grey top:
+  /path_to_dataset/grey top/LA222P04X-C11@12.1.png:
+    Caption: a man in a grey polo shirt and black pants
+  /path_to_dataset/grey top/MA322P05R-C11@22.png:
+    Caption: a man in a grey shirt and grey pants
+  /path_to_dataset/grey top/MA622G02I-N11@15.png:
+    Caption: a man in a grey polo shirt and khaki pants
+  /path_to_dataset/grey top/SO222D13G-K11@18.png:
+    Caption: a man in a grey shirt and jeans
+orange pants:
+  /path_to_dataset/orange pants/JL142D086-K11@20.png:
+    Caption: a man in an orange pants and black shirt
+  /path_to_dataset/orange pants/JL142E03P-G11@9.png:
+    Caption: a man in an orange pants and a black polo shirt
+  /path_to_dataset/orange pants/JL142E03Q-G11@10.png:
+    Caption: a man in an orange polo shirt and shorts
+  /path_to_dataset/orange pants/N1242E0MY-N11@13.png:
+    Caption: a man in an orange polo shirt and khaki pants
+pink short:
+  /path_to_dataset/pink short/PO222D0GB-J11@6.png:
+    Caption: a man in a pink shirt and shorts
+  /path_to_dataset/pink short/PO222D0K9-K12@9.png:
+    Caption: a man in a blue shirt and pink shorts
+  /path_to_dataset/pink short/PO222F05D-G11@10.png:
+    Caption: a man in a blue shirt and pink shorts
+  /path_to_dataset/pink short/PO222F06V-G11@7.png:
+    Caption: a man in a beige polo shirt and pink shorts
+pink sporty tee:
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@3.png:
+    Caption: adi adi manchester fc away kit
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@8.png:
+    Caption:
+      adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi
+      adi adi adi
+  /path_to_dataset/pink sporty tee/EL942E015-J11@5.png:
+    Caption: a man in a pink and blue polo shirt and shorts
+  /path_to_dataset/pink sporty tee/WR122F02Z-K16@8.png:
+    Caption: a man wearing a pink t - shirt and blue shorts
+pink top:
+  /path_to_dataset/pink top/1FI22O00N-J11@7.png:
+    Caption: a man in a pink t - shirt and jeans
+  /path_to_dataset/pink top/1FI22S02C-J11@3.png:
+    Caption: a man in a pink hoodie and shorts
+  /path_to_dataset/pink top/AM422P007-J11@13.png:
+    Caption: a man in a pink polo shirt and jeans
+  /path_to_dataset/pink top/PUC22D088-G11@19.png:
+    Caption: a man in a pink shirt and jeans
+posing:
+  /path_to_dataset/posing/JA222O2SN-A11@19.png:
+    Caption: a man sitting on a stool wearing a white t - shirt and jeans
+  /path_to_dataset/posing/JA222O2SN-A11@21.png:
+    Caption: a man wearing a white t - shirt and jeans
+  /path_to_dataset/posing/JA222O2VO-A11@20.png:
+    Caption: a man in a white t - shirt and jeans
+  /path_to_dataset/posing/M0M22O0B7-A11@3.png:
+    Caption: a young man wearing a white t - shirt and jeans
+purple shirt:
+  /path_to_dataset/purple shirt/VA222O08Q-I11@9.png:
+    Caption: a man in a purple shirt and cargo pants
+  /path_to_dataset/purple shirt/VA222O08S-I11@12.png:
+    Caption: a man wearing a purple t - shirt and black shorts
+  /path_to_dataset/purple shirt/VA222O08S-I11@9.png:
+    Caption:
+      a man wearing a purple t - shirt with the words stay the wall printed
+      on it
+  /path_to_dataset/purple shirt/VA222S04T-I11@10.png:
+    Caption: a man wearing a purple hoodie and pink sweatpants
+purple top:
+  /path_to_dataset/purple top/THJ22O00C-I11@5.png:
+    Caption: a man in a purple shirt and white shorts
+  /path_to_dataset/purple top/TI522D06K-I11@9.png:
+    Caption: a man in a purple shirt and black pants
+  /path_to_dataset/purple top/TOB22G05T-Q11@18.png:
+    Caption: a man in a purple sweater and jeans
+  /path_to_dataset/purple top/UR622E025-Q11@5.png:
+    Caption: a man in a purple shirt and black pants
+red shirt:
+  /path_to_dataset/red shirt/QS122D0CE-G11@26.png:
+    Caption: a man in a maroon shirt and black jeans
+  /path_to_dataset/red shirt/QS122D0CM-G11@15.png:
+    Caption: a man wearing a red and black plaid shirt
+  /path_to_dataset/red shirt/QS122D0CO-G11@16.png:
+    Caption: a man in a red and black plaid shirt
+  /path_to_dataset/red shirt/QS122E01W-K11@17.png:
+    Caption: a man in a maroon sweater and black jeans
+red shirt pants:
+  /path_to_dataset/red shirt pants/WF522E011-C14@16.png:
+    Caption: a man in a maroon sweater and black pants
+  /path_to_dataset/red shirt pants/WF522E03C-K11@12.png:
+    Caption: a man wearing a red sweater and blue pants
+  /path_to_dataset/red shirt pants/WF522P026-G11@14.png:
+    Caption: a young boy wearing a red polo shirt and navy pants
+  /path_to_dataset/red shirt pants/WF522Q043-H11@16.png:
+    Caption: a man in a red sweater and blue pants
+red sweater:
+  /path_to_dataset/red sweater/SO222Q0H6-G11@13.png:
+    Caption: a man in a red sweater and jeans
+  /path_to_dataset/red sweater/SO222Q0H7-G11@15.png:
+    Caption: a man in a red sweater and jeans
+  /path_to_dataset/red sweater/SO222Q0IS-G11@15.png:
+    Caption: a man in a red sweater and jeans
+  /path_to_dataset/red sweater/SO222S0AJ-G11@17.png:
+    Caption: a man in a red sweater and blue jeans
+red tee + black pants:
+  /path_to_dataset/red tee + black pants/JL142D045-G11@10.png:
+    Caption: a man in a red shirt and black pants
+  /path_to_dataset/red tee + black pants/LA222O035-G11@5.png:
+    Caption: a man in a red shirt and black pants
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@10.png:
+    Caption: the north face t - shirt in red
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@3.png:
+    Caption: a man in a red shirt and black pants
+red top:
+  /path_to_dataset/red top/PO222O07P-G11@7.png:
+    Caption: a man in a red and white striped t - shirt
+  /path_to_dataset/red top/PO222P0DH-G11@16.png:
+    Caption: a man in a red shirt and black pants
+  /path_to_dataset/red top/PU142E0FD-Q11@6.png:
+    Caption: puz - t - shirt - red
+  /path_to_dataset/red top/PUC22E06R-C12@6.1.png:
+    Caption: a man wearing a red t - shirt and black pants
+same guy light pants:
+  /path_to_dataset/same guy light pants/L1922E00D-A11@5.png:
+    Caption: a woman in white pants and a white shirt
+  /path_to_dataset/same guy light pants/L1922E00D-B11@10.png:
+    Caption: a man in a white t - shirt and khaki pants
+  /path_to_dataset/same guy light pants/L1922E00E-A11@8.png:
+    Caption: a man in white t - shirt and beige pants
+  /path_to_dataset/same guy light pants/L1922E00E-A11@9.png:
+    Caption: a man in white t - shirt and pants
+shades of green tops:
+  /path_to_dataset/shades of green tops/1FI22O00N-M11@7.png:
+    Caption: a man in a green t - shirt and jeans
+  /path_to_dataset/shades of green tops/1FI22O020-M11@7.png:
+    Caption: a man in a green sweatshirt and plaid pants
+  /path_to_dataset/shades of green tops/AD542E0YK-Q11@9.png:
+    Caption: a man wearing a green t - shirt and black shorts
+  /path_to_dataset/shades of green tops/AD582H064-K11@42.png:
+    Caption: a man in a green shirt and blue shorts
+shirt:
+  /path_to_dataset/shirt/PUC21S043-C12@14.png:
+    Caption: a man wearing a tropical print shirt and shorts
+  /path_to_dataset/shirt/PUC21S043-C12@17.png:
+    Caption: a young man wearing a black t - shirt and shorts
+  /path_to_dataset/shirt/PUC22F03N-Q11@20.png:
+    Caption: a man wearing a striped shirt and shorts
+  /path_to_dataset/shirt/RE622O02N-K11@14.png:
+    Caption: a man in a green striped shirt and shorts
+shirt blue and grey:
+  /path_to_dataset/shirt blue and grey/KH122D03S-K11@26.png:
+    Caption: a man wearing a striped shirt and shorts
+  /path_to_dataset/shirt blue and grey/KH122D03T-K11@26.png:
+    Caption: a man in a blue striped shirt and black shorts
+  /path_to_dataset/shirt blue and grey/SE622D0ZG-K11@17.png:
+    Caption: a man in a blue shirt and black pants
+  /path_to_dataset/shirt blue and grey/SE622D117-A11@15.png:
+    Caption: a man in a blue shirt and black pants
+soccer:
+  /path_to_dataset/soccer/AD542D2K5-A11@12.png:
+    Caption:
+      adi adi originals originals originals originals originals originals originals
+      originals originals originals originals originals originals originals originals
+      originals originals originals originals
+  /path_to_dataset/soccer/AD542D2M9-A11@8.png:
+    Caption: adidas adidas essential 3 stripes pants
+  /path_to_dataset/soccer/AD542E17Z-Q11@9.png:
+    Caption: adidas originals originals - tracksuit - black
+  /path_to_dataset/soccer/AD542E1EJ-K12@27.1.png:
+    Caption: adidas originals originals - panske - white / collegiate blue
+striped black top:
+  /path_to_dataset/striped black top/GLE22E00L-Q11@7.png:
+    Caption:
+      a man wearing a black and white striped t - shirt with a gold stripe
+      on the chest
+  /path_to_dataset/striped black top/KK122E00J-Q11@11.png:
+    Caption: a man in a black and white striped shirt and black pants
+  /path_to_dataset/striped black top/KK122E00J-Q11@9.png:
+    Caption: a man wearing a black and white striped shirt
+  /path_to_dataset/striped black top/NL022O0FA-M11@11.png:
+    Caption: a man in a green striped shirt and jeans
+striped shirt shorts:
+  /path_to_dataset/striped shirt shorts/DR222D01U-A11@9.png:
+    Caption: a man in a striped shirt and shorts
+  /path_to_dataset/striped shirt shorts/GOG22O02X-M11@7.png:
+    Caption: a man wearing a striped shirt and black shorts
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@11.png:
+    Caption: a man in a striped shirt and denim shorts
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@8.png:
+    Caption: a man in a striped shirt and denim shorts
+sweate stripes:
+  /path_to_dataset/sweate stripes/PJ422G02W-Q11@13.png:
+    Caption: a man in a striped shirt and black pants
+  /path_to_dataset/sweate stripes/PJ422G03O-Q11@35.png:
+    Caption: a man in a grey sweater and black jeans
+  /path_to_dataset/sweate stripes/PUC22E030-K11@4.1.png:
+    Caption: a man in a sweater and pants
+  /path_to_dataset/sweate stripes/PUC22E030-K11@5.1.png:
+    Caption: a man wearing a sweater and jeans
+tennis:
+  /path_to_dataset/tennis/L0642D003-Q11@13.png:
+    Caption: a man wearing a black t - shirt and white shorts
+  /path_to_dataset/tennis/L0642D003-Q11@15.png:
+    Caption: a man in a black shirt and white shorts holding a tennis racket
+  /path_to_dataset/tennis/L0642D03M-Q11@9.png:
+    Caption: a man in a blue shirt and white shorts
+  /path_to_dataset/tennis/L0642D03O-Q11@3.png:
+    Caption: a man in a black shirt and white shorts holding a tennis racket
+total black:
+  /path_to_dataset/total black/JU622P01E-Q11@8.png:
+    Caption: a man wearing a black t - shirt and black pants
+  /path_to_dataset/total black/JU622P01K-Q11@9.png:
+    Caption: a man in black jeans and a black t - shirt
+  /path_to_dataset/total black/JU622S02W-Q11@11.png:
+    Caption: a man in a black jacket and pants
+  /path_to_dataset/total black/JU622S031-Q11@11.png:
+    Caption: a man wearing a black hoodie with a hoodie and a black sweatshirt
+underpants:
+  /path_to_dataset/underpants/5JO82O00H-Q11@7.2.png:
+    Caption: a man in black tights and black underwear
+  /path_to_dataset/underpants/N1242E183-C11@10.1.png:
+    Caption: a man in grey and black underwear
+  /path_to_dataset/underpants/N1242E186-C11@10.png:
+    Caption: therme sweat shorts in black
+  /path_to_dataset/underpants/N1242E186-C11@12.png:
+    Caption: a man in grey and black underwear
+underwear:
+  /path_to_dataset/underwear/C1182O01R-Q11@7.1.png:
+    Caption: a man in a black underwear
+  /path_to_dataset/underwear/DR282O000-Q11@8.2.png:
+    Caption: a man in black underwear stands against a white wall
+  /path_to_dataset/underwear/JA282H016-G11@7.1.png:
+    Caption: a man in red swim shorts with a white background
+  /path_to_dataset/underwear/PO282O000-K35@9.1.png:
+    Caption: a man wearing a red boxer briefs
+white shirt black pants:
+  /path_to_dataset/white shirt black pants/ES422A07M-C12@17.png:
+    Caption: a man in a white shirt and blue pants
+  /path_to_dataset/white shirt black pants/ES422E039-K11@14.png:
+    Caption: a man in a white sweater and black pants
+  /path_to_dataset/white shirt black pants/MI422D050-A11@5.png:
+    Caption: a man in a white shirt and jeans
+  /path_to_dataset/white shirt black pants/TOB22O01B-A11@12.png:
+    Caption: a man in a white sweater and jeans
+yellow tee:
+  /path_to_dataset/yellow tee/N1242E0M5-A11@14.png:
+    Caption: nike - dry short - sports shorts - white / total orange
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@13.1.png:
+    Caption: nike tennis - tennis shorts
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@15.1.png:
+    Caption: a man in a white t - shirt and black shorts
+  /path_to_dataset/yellow tee/NOU22O00J-E11@5.png:
+    Caption: a man in a yellow shirt and black shorts

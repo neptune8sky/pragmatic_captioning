@@ -1,0 +1,920 @@
+basketball:
+  /path_to_dataset/basketball/FAV42D00P-K11@3.png:
+    Caption:
+      The scene features a man wearing a blue and white baseball jersey, standing
+      in front of a white wall. He has a tattoo on his arm and is posing for a photo.
+      The baseball jer
+  /path_to_dataset/basketball/MN842D021-M11@3.png:
+    Caption:
+      In the image, a young man is posing for a photo while wearing a teal
+      and black basketball jersey, shorts, and shoes. He has a black backpack slung
+      over his shoulder,
+  /path_to_dataset/basketball/MN842D0A2-P11@8.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a blue jersey and shorts. The jersey features the number 60 on it, and the shorts
+      are
+  /path_to_dataset/basketball/N1242D286-K11@22.png:
+    Caption:
+      In the image, a man is posing with a soccer ball, wearing a blue shirt
+      and white shorts. He is standing in front of a white wall, holding the soccer
+      ball in his hands.
+beige pants:
+  /path_to_dataset/beige pants/LA222O03C-A11@15.png:
+    Caption:
+      In the image, a young man is wearing a white long-sleeved shirt and brown
+      pants. He is standing with his hands on his hips, posing for the camera. The
+      white shirt
+  /path_to_dataset/beige pants/M3I22D0A8-A11@27.png:
+    Caption: a man in a white shirt and grey pants
+  /path_to_dataset/beige pants/MA322D0ML-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a white shirt and brown pants. He
+      is standing with his hands on his hips, posing for the camera. The white shirt
+      and brown pants combination
+  /path_to_dataset/beige pants/MA322E067-O11@16.png:
+    Caption:
+      In the image, a man is wearing a white t-shirt and tan pants. He is standing
+      with his back to the camera, posing for a picture. The tan pants he is wearing
+      are
+beige pants + blue:
+  /path_to_dataset/beige pants + blue/MA322D0LZ-K11@3.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and tan pants. He is
+      standing on a white background, posing for the camera. The shirt and pants he
+      is wearing are both
+  /path_to_dataset/beige pants + blue/MA322D0MH-K11@13.png:
+    Caption:
+      The image features a young man wearing a blue shirt and khaki pants.
+      He is standing with his hands on his hips, posing for the camera. The combination
+      of the blue shirt and k
+  /path_to_dataset/beige pants + blue/MA322D0ML-K11@17.png:
+    Caption:
+      In the image, a man is wearing a light blue shirt and tan pants. He is
+      standing with his hands on his hips, posing for the camera. The man's outfit
+      consists of a
+  /path_to_dataset/beige pants + blue/MA322P05I-K11@17.png:
+    Caption:
+      There is a young man wearing a blue polo shirt and khaki pants, standing
+      in front of a black background. He has his hands in his pockets and is posing
+      for the camera. The
+bike shorts:
+  /path_to_dataset/bike shorts/C6642D02S-N11@7.png:
+    Caption:
+      In the image, a man is wearing a green shirt, black shorts, and a helmet.
+      He is standing in front of a white wall, smiling and posing for the camera.
+      The man'
+  /path_to_dataset/bike shorts/C6642I00Y-Q11@9.2.png:
+    Caption:
+      In the image, a man is posing for a photo while wearing black and gray
+      boxer shorts. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The man
+  /path_to_dataset/bike shorts/GOD42E00E-Q11@8.png:
+    Caption:
+      In the image, a man is wearing a white and black cycling jersey, shorts,
+      and shoes. He is standing in front of a white wall, posing for the camera. The
+      jer
+  /path_to_dataset/bike shorts/GOD42K006-Q12@9.png:
+    Caption:
+      There is a man standing in front of a white wall, wearing a white shirt,
+      black shorts, and black shoes. He is holding a helmet in his right hand and
+      posing for the camera.
+black&white:
+  /path_to_dataset/black&white/EA822P00M-K12@3.png:
+    Caption:
+      In the image, a young man is wearing a black polo shirt and white pants.
+      He is standing in front of a white wall, posing for the camera. The black polo
+      shirt and white
+  /path_to_dataset/black&white/EA822P00M-Q11@5.png:
+    Caption:
+      The image features a young man wearing a black polo shirt and white pants,
+      carrying a black duffel bag. He is walking down a white hallway, possibly on
+      his way to a destination. The
+  /path_to_dataset/black&white/TP822E09Y-K11@12.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a gray t-shirt and black pants. He has a brown fanny pack hanging from his waist,
+      adding a
+  /path_to_dataset/black&white/VA222O09D-A11@15.1.png:
+    Caption: a man in a white t - shirt and black pants
+blue pants + white top:
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@10.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a white shirt and blue pants. He has a striped scarf wrapped around his neck,
+      adding a pop of color to
+  /path_to_dataset/blue pants + white top/PO222E02H-K12@9.png:
+    Caption:
+      In the image, a man is wearing a white polo shirt and light blue pants.
+      He is standing with his back to the camera, looking at something in the distance.
+      The polo shirt and p
+  /path_to_dataset/blue pants + white top/PO282L00O-K12@10.png:
+    Caption:
+      In the image, a man is wearing a white tank top and blue and white striped
+      pajama pants. He is standing in front of a white wall, posing for the camera.
+      The pajama
+  /path_to_dataset/blue pants + white top/PUC22G0AQ-K13@8.1.png:
+    Caption: a man wearing a white t - shirt and jeans
+blue short:
+  /path_to_dataset/blue short/VA442D011-C11@11.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a blue
+      t-shirt and shorts. He is holding a black helmet in his right hand and posing
+      for the camera.
+  /path_to_dataset/blue short/VA442E011-K11@9.png:
+    Caption:
+      A young man is standing in front of a white wall, wearing a gray t-shirt
+      and blue shorts. The t-shirt features the word "Vitamin" on it, while the shorts
+  /path_to_dataset/blue short/VA442E011-K12@6.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and blue shorts.
+      He is standing in front of a white wall, posing for the camera. The t-shirt
+      and shorts
+  /path_to_dataset/blue short/VA442E01Y-K11@7.png:
+    Caption:
+      In the image, a man is wearing a black shirt and blue shorts. He has
+      a tattoo on his left arm and is standing with his back to the camera, looking
+      at something in the distance.
+blue shorts black top:
+  /path_to_dataset/blue shorts black top/RE542E0HF-K11@30.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and blue pants.
+      He is posing in an athletic stance, with his right leg bent and his left leg
+      extended behind him.
+  /path_to_dataset/blue shorts black top/RE542E0LQ-K11@21.png:
+    Caption:
+      In the image, a man is wearing a black shirt and blue shorts. He is posing
+      in an athletic stance, demonstrating his flexibility and athleticism. The man's
+      clothing
+  /path_to_dataset/blue shorts black top/RE542E0LY-K11@23.png:
+    Caption:
+      In the image, a man is wearing a black t-shirt and blue shorts. He is
+      standing with his hands on his hips, posing for the camera. The combination
+      of the black t-sh
+  /path_to_dataset/blue shorts black top/S2042E014-K11@7.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a black
+      shirt and blue shorts. He has his hands on his hips, posing confidently for
+      the camera. The man
+blue sweater blue jeans:
+  /path_to_dataset/blue sweater blue jeans/JO922Q01S-K11@13.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a navy blue sweater and jeans. He has his hands in his pockets, giving him a
+      casual and relaxed
+  /path_to_dataset/blue sweater blue jeans/JO922Q01Y-K11@40.png:
+    Caption:
+      In the image, a man is wearing a black sweater and light blue pants.
+      He is standing with his hands on his hips, posing for the camera. The combination
+      of the black sweater and light
+  /path_to_dataset/blue sweater blue jeans/P3222Q02L-K12@28.png:
+    Caption:
+      The scene features a man wearing a blue sweater and blue jeans, standing
+      in front of a white wall. He has a beard and is posing for the camera.
+  /path_to_dataset/blue sweater blue jeans/TO222Q0G1-K11@9.png:
+    Caption:
+      In the image, a man is wearing a blue sweater and jeans. He is standing
+      in front of a gray background, smiling and posing for the camera. The blue sweater
+      he is wearing is
+blue tees similar styles:
+  /path_to_dataset/blue tees similar styles/L7422O012-K11@12.png:
+    Caption:
+      The scene features a man wearing a blue t-shirt, jeans, and white sneakers.
+      He is standing in front of a white wall, posing for the camera. The blue t-shirt
+  /path_to_dataset/blue tees similar styles/L7422P00E-K12@17.png:
+    Caption:
+      In the image, a man is wearing a blue polo shirt and blue jeans. He is
+      standing against a white background, posing for the camera. The polo shirt and
+      jeans he is we
+  /path_to_dataset/blue tees similar styles/L7422P00F-K11@15.png:
+    Caption:
+      In the image, a man is wearing a blue polo shirt and jeans, posing for
+      a photo. He is standing in front of a white wall, which serves as the background
+      for the image. The
+  /path_to_dataset/blue tees similar styles/L7422P00F-K12@17.png:
+    Caption: a man in a blue polo shirt and jeans
+blue top:
+  /path_to_dataset/blue top/SO222P07V-K11@10.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a blue
+      polo shirt and black pants. He has his hands in his pockets, giving a casual
+      and relaxed appearance. The
+  /path_to_dataset/blue top/SO222P08K-L11@13.png:
+    Caption: a man in a blue polo shirt and jeans
+  /path_to_dataset/blue top/SO222P08K-L11@15.png:
+    Caption:
+      There is a young man wearing a blue polo shirt and jeans, standing with
+      his arms crossed in front of him. He has a casual and relaxed pose, showcasing
+      his confidence and style.
+  /path_to_dataset/blue top/SU222S0TF-C12@28.png:
+    Caption: a man wearing a hoodie and sweat pants
+burgundy pyjama:
+  /path_to_dataset/burgundy pyjama/L0622P003-G11@33.png:
+    Caption: a man in a red shirt and blue shorts
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@3.png:
+    Caption:
+      In the image, a man is wearing a maroon t-shirt and shorts, standing
+      with his arms crossed in front of him. He appears to be posing for a photo.
+      The t-shirt
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@5.png:
+    Caption: a man in a maroon t - shirt and shorts
+  /path_to_dataset/burgundy pyjama/PI982M02T-G11@7.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a maroon
+      short-sleeved shirt and shorts. He is posing for a photo, showcasing his casual
+business shirt:
+  /path_to_dataset/business shirt/JO922D05E-K13@4.1.png:
+    Caption:
+      In the image, a man is wearing a light blue dress shirt and dark blue
+      pants. He is standing in front of a white wall, posing for a photo. The man's
+      clothing consists of
+  /path_to_dataset/business shirt/M9122D1MF-K12@14.png:
+    Caption:
+      In the image, a man is wearing a light blue dress shirt and dark blue
+      jeans. He is standing with his hands on his hips, posing for the camera. The
+      man's clothing is
+  /path_to_dataset/business shirt/MA322D0N8-K11@15.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and dark pants. He is standing
+      with his hands on his hips, posing for the camera. He is wearing a pair of white
+      sne
+  /path_to_dataset/business shirt/OL422D073-K11@11.png:
+    Caption:
+      In the image, a man is wearing a blue shirt, black pants, and carrying
+      a black handbag. He is standing against a white wall, posing for the camera.
+      The man's clothing
+checked shirt:
+  /path_to_dataset/checked shirt/NN922E009-K11@10.png:
+    Caption:
+      In the image, a young man is wearing a plaid shirt and black pants. He
+      is standing in front of a white wall, posing for the camera. The plaid shirt
+      and black pants
+  /path_to_dataset/checked shirt/PUC22D07P-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a black and white plaid shirt, jeans,
+      and sneakers. He is standing in front of a white background, posing for the
+      camera. The pla
+  /path_to_dataset/checked shirt/PY522D015-A12@21.png:
+    Caption:
+      In the image, a man wearing a plaid shirt and black pants is posing for
+      a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+  /path_to_dataset/checked shirt/SE622D11T-A11@17.png:
+    Caption:
+      In the image, a young man is wearing a plaid shirt and jeans. He is posing
+      for the camera, standing with his hands in his pockets. The plaid shirt he is
+      wearing
+dark pyjama:
+  /path_to_dataset/dark pyjama/5JO82N002-Q11@8.png:
+    Caption:
+      In the image, a man is wearing a blue long-sleeved shirt and matching
+      pajama pants. He is standing against a white background, posing for the camera.
+      The shirt and p
+  /path_to_dataset/dark pyjama/TO282M00G-K11@10.png:
+    Caption:
+      In the image, a man is wearing a long-sleeved shirt and pajama pants.
+      He is standing in front of a white background, posing for the camera. The shirt
+      and p
+  /path_to_dataset/dark pyjama/TO282M010-K11@6.png:
+    Caption:
+      In the image, a young man is standing in front of a white background,
+      wearing a long-sleeved shirt and plaid pajamas. He is posing for the camera,
+      showcasing
+  /path_to_dataset/dark pyjama/TO282M010-K11@8.png:
+    Caption:
+      In the image, a man is wearing a long-sleeved shirt and plaid pajama
+      pants. He is standing in front of a white background, posing for the camera.
+      The plaid
+dif red tees:
+  /path_to_dataset/dif red tees/BB122P06I-G11@4.1.png:
+    Caption:
+      There is a young man wearing a red polo shirt, black pants, and black
+      shoes. He is standing with his hands on his hips, posing for the camera. The
+      polo shirt
+  /path_to_dataset/dif red tees/BB122P07B-G11@6.1.png:
+    Caption: a man in a red shirt and blue pants holding a golf club club ball
+  /path_to_dataset/dif red tees/C6642E021-Q11@8.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a red
+      shirt and black shorts. He is holding a baseball glove in his right hand and
+      posing for the camera. The
+  /path_to_dataset/dif red tees/WR122S01O-G11@8.png:
+    Caption:
+      In the image, a man is wearing a red sweater and black pants. He is standing
+      with his back to the camera, posing in a casual and relaxed manner. The red
+      sweater and black
+funky shirt:
+  /path_to_dataset/funky shirt/BQ022O00Z-A11@11.png:
+    Caption:
+      There is a man wearing a striped long-sleeved shirt and tan pants, standing
+      in front of a white wall. He has his hands in his pockets and is posing for
+      the camera.
+  /path_to_dataset/funky shirt/FA522D04X-K11@14.png:
+    Caption:
+      In the image, a young man is standing with his hands on his hips, wearing
+      a blue and white striped shirt, tan pants, and black shoes. He has a casual
+      and relaxed
+  /path_to_dataset/funky shirt/FA522E00W-E11@5.png:
+    Caption:
+      In the image, a man is wearing a blue and white striped shirt and yellow
+      pants. He is standing with his back to the camera, posing in a casual and relaxed
+      manner. The man
+  /path_to_dataset/funky shirt/TM022D08Z-K11@27.png:
+    Caption:
+      In the image, a man is wearing a blue and white checked shirt, tan pants,
+      and white sneakers. He is standing with his hands on his hips, posing for the
+      camera. The
+funny pants:
+  /path_to_dataset/funny pants/VEI22F006-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and a yellow
+      floral skirt. He is standing in front of a white wall, showcasing his unique
+      and eye-catching out
+  /path_to_dataset/funny pants/VEI22F006-Q11@9.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and colorful
+      floral shorts. He is posing for the camera, showcasing his unique and eye-catching
+      outfit.
+  /path_to_dataset/funny pants/VEI22G00U-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing yellow and black floral pants and
+      a black shirt. He has a tattoo on his left arm, which adds a unique touch to
+      his outfit. The
+  /path_to_dataset/funny pants/VEI22O00V-Q11@8.png:
+    Caption:
+      There is a young man wearing a blue and yellow shirt, black pants, and
+      black shoes. He is standing against a white wall, posing for the camera.
+generic white and grey top:
+  /path_to_dataset/generic white and grey top/PUC22O0NH-A11@18.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black shorts.
+      He is standing in front of a white background, posing for the camera. The t-shirt
+      features a color
+  /path_to_dataset/generic white and grey top/PUC22O0NY-A11@13.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black pants.
+      He is standing in front of a white background, posing for the camera. The t-shirt
+      has a red
+  /path_to_dataset/generic white and grey top/SO422S025-C11@11.png:
+    Caption:
+      In the image, a young man is wearing a gray sweatshirt and brown pants.
+      He is standing on a white background, posing for the camera. The sweatshirt
+      and pants he is
+  /path_to_dataset/generic white and grey top/TR122E01B-Q11@3.png:
+    Caption: a man in a white t - shirt and black pants
+green striped tee:
+  /path_to_dataset/green striped tee/JA222O2UW-E11@17.png:
+    Caption:
+      The scene features a young man wearing a yellow and green striped t-shirt
+      and blue jeans. He is standing with his hands on his hips, posing for the camera.
+      The t-shirt
+  /path_to_dataset/green striped tee/JA222O2UY-M11@21.png:
+    Caption:
+      In the image, a young man is wearing a striped t-shirt and jeans. He
+      is standing with his hands on his hips, posing for the camera. The t-shirt features
+      a
+  /path_to_dataset/green striped tee/JA222O2UY-M11@23.png:
+    Caption:
+      In the image, a man is wearing a green and blue striped t-shirt and jeans.
+      He is standing with his back to the camera, posing in a casual and relaxed manner.
+      The
+  /path_to_dataset/green striped tee/LE222P00A-M11@8.png:
+    Caption:
+      In the image, a young man is wearing a green and white striped polo shirt.
+      He is standing with his hands on his hips, posing confidently for the camera.
+      The polo shirt
+green top:
+  /path_to_dataset/green top/QS122Q05F-P11@17.png:
+    Caption:
+      In the image, a man is wearing a teal green sweater and black pants.
+      He is standing with his hands on his hips, posing for the camera. The teal green
+      sweater and black
+  /path_to_dataset/green top/QS122Q05G-P11@14.png:
+    Caption:
+      In the image, a man is wearing a green sweater and blue jeans. He is
+      standing in front of a white wall, smiling and posing for the camera. The green
+      sweater and blue jeans
+  /path_to_dataset/green top/QS122Q05G-P11@17.png:
+    Caption: a man in a green sweater and jeans
+  /path_to_dataset/green top/QS122Q05N-P11@4.1.png:
+    Caption:
+      In the image, a young man is standing in front of a white background,
+      wearing a v-neck teal sweater and blue jeans. He is posing confidently, showcasing
+      his style and
+green-ish pants:
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@7.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and khaki pants.
+      He has a tattoo on his arm, which adds a unique touch to his overall appearance.
+      The t
+  /path_to_dataset/green-ish pants/CLB22O026-Q11@9.png:
+    Caption: a man in a black t - shirt and khaki pants
+  /path_to_dataset/green-ish pants/OS322S0F1-Q11@14.png:
+    Caption:
+      In the image, a man is wearing a black sweater and gray pants. He is
+      standing with his back to the camera, giving a full view of his outfit. The
+      sweater and pants appear to
+  /path_to_dataset/green-ish pants/UN242D0HN-Q11@13.1.png:
+    Caption: a man in a black shirt and khak pants
+grey + black:
+  /path_to_dataset/grey + black/PU142D0V9-Q11@8.png:
+    Caption:
+      In the image, a young man is wearing a black t-shirt and shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image.
+  /path_to_dataset/grey + black/SO222S08U-K11@10.png:
+    Caption:
+      In the image, a man is wearing a gray hoodie and black pants. He has
+      a beard and is posing for a photo. The gray hoodie and black pants create a
+      casual
+  /path_to_dataset/grey + black/SU222E072-Q11@15.png:
+    Caption:
+      In the image, a young man is standing with his hands on his hips, wearing
+      a gray sweater and black pants. He is posing in front of a white background,
+      showcasing his clothing
+  /path_to_dataset/grey + black/SU222S173-C11@10.png:
+    Caption:
+      In the image, a young man is wearing a sweatshirt and jeans. He is standing
+      with his hands on his hips, posing for the camera. The sweatshirt features a
+      graphic
+grey top:
+  /path_to_dataset/grey top/LA222P04X-C11@12.1.png:
+    Caption: a man in a grey polo shirt and black pants
+  /path_to_dataset/grey top/MA322P05R-C11@22.png:
+    Caption:
+      There is a young man standing in front of a black background, wearing
+      a gray polo shirt and khaki pants. The polo shirt has a collar, and the khaki
+      pants
+  /path_to_dataset/grey top/MA622G02I-N11@15.png:
+    Caption:
+      In the image, a man is wearing a polo shirt and khaki pants. He is standing
+      in front of a white wall, posing for the camera. The polo shirt and kh
+  /path_to_dataset/grey top/SO222D13G-K11@18.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and jeans. He is standing
+      with his hands on his hips, posing for the camera. The shirt he is wearing has
+      a collar
+orange pants:
+  /path_to_dataset/orange pants/JL142D086-K11@20.png:
+    Caption:
+      There is a man standing in front of a black background, wearing a black
+      shirt and orange pants. He is posing for the camera, with his hands on his hips
+      and a confident expression on his face
+  /path_to_dataset/orange pants/JL142E03P-G11@9.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a black polo shirt and orange pants. He has his hands on his hips and is posing
+      for the camera.
+  /path_to_dataset/orange pants/JL142E03Q-G11@10.png:
+    Caption:
+      In the image, a young man is wearing an orange polo shirt and shorts,
+      posing for a photo. He is standing in front of a white wall, which serves as
+      the background for the image.
+  /path_to_dataset/orange pants/N1242E0MY-N11@13.png:
+    Caption:
+      In the image, a young man is wearing an orange polo shirt and tan pants.
+      He is posing for a photo, standing in front of a white background. The polo
+      shirt and pants
+pink short:
+  /path_to_dataset/pink short/PO222D0GB-J11@6.png:
+    Caption:
+      In the image, a man is wearing a pink shirt and shorts. He is standing
+      in front of a white wall, posing for the camera. The pink shirt and shorts he
+      is we
+  /path_to_dataset/pink short/PO222D0K9-K12@9.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and pink shorts. He
+      is standing in front of a white wall, posing for a photo. The shirt and shorts
+      he is we
+  /path_to_dataset/pink short/PO222F05D-G11@10.png:
+    Caption:
+      In the image, a young man is wearing a blue shirt and pink shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image.
+  /path_to_dataset/pink short/PO222F06V-G11@7.png:
+    Caption:
+      In the image, a young man is wearing a tan polo shirt and pink shorts.
+      He is standing in front of a white wall, posing for the camera. The polo shirt
+      and short
+pink sporty tee:
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@3.png:
+    Caption: adi adi manchester fc away kit
+  /path_to_dataset/pink sporty tee/AD542D1ZP-J11@8.png:
+    Caption:
+      adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi adi
+      adi adi adi
+  /path_to_dataset/pink sporty tee/EL942E015-J11@5.png:
+    Caption:
+      In the image, a man is wearing pink shorts and a blue shirt. He is standing
+      with his back to the camera, giving a full view of his outfit. The pink shorts
+      and blue
+  /path_to_dataset/pink sporty tee/WR122F02Z-K16@8.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a pink
+      t-shirt and blue shorts. He is posing for the camera with his hands on his hips,
+      showcasing
+pink top:
+  /path_to_dataset/pink top/1FI22O00N-J11@7.png:
+    Caption:
+      In the image, a young man is wearing a bright pink t-shirt and blue jeans.
+      He is standing with his hands on his hips, posing for the camera. The t-shirt
+  /path_to_dataset/pink top/1FI22S02C-J11@3.png:
+    Caption:
+      There is a young man wearing a bright pink hoodie and blue denim shorts,
+      posing for a photo. He is standing in front of a white wall with his hands on
+      his head, showc
+  /path_to_dataset/pink top/AM422P007-J11@13.png:
+    Caption:
+      In the image, a young man is wearing a pink polo shirt and jeans. He
+      is standing with his hands on his hips, posing for the camera. The pink polo
+      shirt
+  /path_to_dataset/pink top/PUC22D088-G11@19.png:
+    Caption:
+      In the image, a young man is wearing a pink shirt and blue jeans. He
+      is standing in front of a white wall, posing for the camera. The pink shirt
+      and blue jeans
+posing:
+  /path_to_dataset/posing/JA222O2SN-A11@19.png:
+    Caption:
+      In the image, a young man is sitting on a stool, wearing a white t-shirt
+      and blue jeans. He is posing in a relaxed and casual manner, showcasing his
+      style
+  /path_to_dataset/posing/JA222O2SN-A11@21.png:
+    Caption: a man wearing a white t - shirt and jeans
+  /path_to_dataset/posing/JA222O2VO-A11@20.png:
+    Caption: a man in a white t - shirt and jeans
+  /path_to_dataset/posing/M0M22O0B7-A11@3.png:
+    Caption: a young man wearing a white t - shirt and jeans
+purple shirt:
+  /path_to_dataset/purple shirt/VA222O08Q-I11@9.png:
+    Caption:
+      In the image, a man wearing a purple t-shirt and khaki pants is posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the
+  /path_to_dataset/purple shirt/VA222O08S-I11@12.png:
+    Caption:
+      In the image, a young man is wearing a purple t-shirt and black shorts.
+      He is standing in front of a white wall, posing for the camera. The purple t-shirt
+  /path_to_dataset/purple shirt/VA222O08S-I11@9.png:
+    Caption:
+      a man wearing a purple t - shirt with the words stay the wall printed
+      on it
+  /path_to_dataset/purple shirt/VA222S04T-I11@10.png:
+    Caption:
+      In the image, a young man is wearing a purple hoodie and pink pants.
+      He is posing for a photo, standing in front of a white wall. The purple hoodie
+      and
+purple top:
+  /path_to_dataset/purple top/THJ22O00C-I11@5.png:
+    Caption:
+      In the image, a man is wearing a purple long-sleeved shirt and white
+      shorts. He is standing with his back to the camera, giving a full view of his
+      outfit. The pur
+  /path_to_dataset/purple top/TI522D06K-I11@9.png:
+    Caption: a man in a purple shirt and black pants
+  /path_to_dataset/purple top/TOB22G05T-Q11@18.png:
+    Caption: a man in a purple sweater and jeans
+  /path_to_dataset/purple top/UR622E025-Q11@5.png:
+    Caption:
+      In the image, a man is wearing a purple t-shirt and black pants. He is
+      standing with his back to the camera, giving a full view of his outfit. The
+      t-shirt
+red shirt:
+  /path_to_dataset/red shirt/QS122D0CE-G11@26.png:
+    Caption:
+      There is a man standing in front of a white background, wearing a maroon
+      shirt and black pants. He poses confidently for the camera, showcasing his style
+      and fashion sense. The shirt
+  /path_to_dataset/red shirt/QS122D0CM-G11@15.png:
+    Caption:
+      In the image, a young man is wearing a red and black plaid shirt, black
+      pants, and black shoes. He is standing against a black background, posing for
+      the camera. The plaid
+  /path_to_dataset/red shirt/QS122D0CO-G11@16.png:
+    Caption:
+      The image features a young man wearing a red and black plaid shirt, black
+      pants, and black shoes. He is posing for the camera, standing with his hands
+      on his hips. The pla
+  /path_to_dataset/red shirt/QS122E01W-K11@17.png:
+    Caption:
+      In the image, a young man is wearing a maroon sweater and black pants,
+      posing for a photo. He has a tattoo on his left arm, which adds a unique touch
+      to his overall
+red shirt pants:
+  /path_to_dataset/red shirt pants/WF522E011-C14@16.png:
+    Caption:
+      In the image, a man is wearing a burgundy turtleneck sweater and black
+      pants. He is standing with his hands on his hips, posing for the camera. The
+      turt
+  /path_to_dataset/red shirt pants/WF522E03C-K11@12.png:
+    Caption:
+      In the image, a man is wearing a red sweater and navy pants. He is standing
+      with his hands on his hips, posing for the camera. The red sweater and navy
+      pants
+  /path_to_dataset/red shirt pants/WF522P026-G11@14.png:
+    Caption:
+      The image features a young man wearing a maroon polo shirt and blue pants.
+      He is posing for a photo, standing in front of a white background. The polo
+      shirt and blue pants
+  /path_to_dataset/red shirt pants/WF522Q043-H11@16.png:
+    Caption:
+      In the image, a young man is wearing a red sweater and black pants. He
+      is standing with his hands on his hips, posing for the camera. The combination
+      of the red sweater and black
+red sweater:
+  /path_to_dataset/red sweater/SO222Q0H6-G11@13.png:
+    Caption:
+      In the image, a man is wearing a red sweater and gray pants. He is posing
+      for the camera, standing with his hands in his pockets. The red sweater and
+      gray pants create a
+  /path_to_dataset/red sweater/SO222Q0H7-G11@15.png:
+    Caption:
+      In the image, a man is wearing a red v-neck sweater and blue jeans. He
+      is standing in front of a white background, posing for the camera. The red v-neck
+      swe
+  /path_to_dataset/red sweater/SO222Q0IS-G11@15.png:
+    Caption:
+      In the image, a man is wearing a red sweater and blue jeans. He is standing
+      in front of a white wall, smiling and posing for the camera. The red sweater
+      and blue jeans
+  /path_to_dataset/red sweater/SO222S0AJ-G11@17.png:
+    Caption:
+      In the image, a young man is wearing a red sweater and black pants. He
+      is standing in front of a black background, posing for the camera. The red sweater
+      and black pants create a
+red tee + black pants:
+  /path_to_dataset/red tee + black pants/JL142D045-G11@10.png:
+    Caption:
+      In the image, a man wearing a red polo shirt and black pants is posing
+      for a photo. He is standing in front of a white wall, which serves as the background
+      for the image. The
+  /path_to_dataset/red tee + black pants/LA222O035-G11@5.png:
+    Caption:
+      The scene features a man wearing a red t-shirt, black pants, and black
+      shoes. He is standing with his back to the camera, posing for a picture. The
+      red t-shirt
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@10.png:
+    Caption:
+      In the image, a man is wearing a red t-shirt and black pants. He is standing
+      in front of a white wall, posing for the camera. The red t-shirt features a
+      design
+  /path_to_dataset/red tee + black pants/LAN42D007-G11@3.png:
+    Caption:
+      In the image, a man is standing in front of a white wall, wearing a red
+      shirt and black pants. He has his hands on his hips, posing for the camera.
+      The red shirt
+red top:
+  /path_to_dataset/red top/PO222O07P-G11@7.png:
+    Caption: a man in a red and white striped t - shirt
+  /path_to_dataset/red top/PO222P0DH-G11@16.png:
+    Caption:
+      In the image, a man with a beard is wearing a red polo shirt, black pants,
+      and black shoes. He has his hands on his hips and is posing for a photo.
+  /path_to_dataset/red top/PU142E0FD-Q11@6.png:
+    Caption:
+      In the image, a man is wearing a red t-shirt and black pants. He is standing
+      in front of a white background, posing for the camera. The red t-shirt and black
+      p
+  /path_to_dataset/red top/PUC22E06R-C12@6.1.png:
+    Caption:
+      The image features a young man wearing a red t-shirt and black pants.
+      He is standing in front of a white wall, posing for the camera. The red t-shirt
+      and black pants
+same guy light pants:
+  /path_to_dataset/same guy light pants/L1922E00D-A11@5.png:
+    Caption: a woman in white pants and a white shirt
+  /path_to_dataset/same guy light pants/L1922E00D-B11@10.png:
+    Caption:
+      In the image, a young man is standing in front of a white wall, wearing
+      a white t-shirt and tan pants. He has his hands on his hips and is posing for
+      the camera.
+  /path_to_dataset/same guy light pants/L1922E00E-A11@8.png:
+    Caption: a man in white t - shirt and beige pants
+  /path_to_dataset/same guy light pants/L1922E00E-A11@9.png:
+    Caption: a man in white t - shirt and pants
+shades of green tops:
+  /path_to_dataset/shades of green tops/1FI22O00N-M11@7.png:
+    Caption:
+      In the image, a young man is wearing a neon green t-shirt and blue jeans.
+      He is standing in front of a white background, posing for the camera. The neon
+      green t-
+  /path_to_dataset/shades of green tops/1FI22O020-M11@7.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a neon
+      green shirt and plaid pants. He is posing for the camera with his hands on his
+      hips, showcasing
+  /path_to_dataset/shades of green tops/AD542E0YK-Q11@9.png:
+    Caption:
+      In the image, a man is wearing a green t-shirt and black shorts. He is
+      standing in front of a white wall, posing for the camera. The man has a tattoo
+      on his
+  /path_to_dataset/shades of green tops/AD582H064-K11@42.png:
+    Caption:
+      In the image, a man is wearing a yellow shirt and blue shorts, posing
+      for a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+shirt:
+  /path_to_dataset/shirt/PUC21S043-C12@14.png:
+    Caption:
+      In the image, a young man is wearing a floral shirt, shorts, and socks.
+      He is standing in front of a white background, posing for the camera. The floral
+      shirt and
+  /path_to_dataset/shirt/PUC21S043-C12@17.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a black
+      shirt, shorts, and a colorful floral shirt. He is posing for the camera, showcasing
+      his unique
+  /path_to_dataset/shirt/PUC22F03N-Q11@20.png:
+    Caption:
+      In the image, a young man is wearing a striped shirt and black shorts.
+      He is standing in front of a white wall, posing for the camera. The striped
+      shirt and black shorts
+  /path_to_dataset/shirt/RE622O02N-K11@14.png:
+    Caption:
+      In the image, a young man is wearing a green and white striped shirt,
+      shorts, and sneakers. He is standing in front of a white wall, posing for the
+      camera. The sh
+shirt blue and grey:
+  /path_to_dataset/shirt blue and grey/KH122D03S-K11@26.png:
+    Caption:
+      In the image, a young man is standing in front of a black background,
+      wearing a short-sleeved shirt and shorts. The shirt has a blue and white checkered
+      pattern, and the short
+  /path_to_dataset/shirt blue and grey/KH122D03T-K11@26.png:
+    Caption:
+      There is a man standing in front of a white wall, wearing a blue shirt
+      and black shorts. He has his hands on his hips and is posing for a photo.
+  /path_to_dataset/shirt blue and grey/SE622D0ZG-K11@17.png:
+    Caption:
+      In the image, a man is wearing a blue shirt and black pants. He is standing
+      with his hands on his hips, posing confidently for the camera. The blue shirt
+      and black pants
+  /path_to_dataset/shirt blue and grey/SE622D117-A11@15.png:
+    Caption:
+      In the image, a man is standing with his back to the camera, wearing
+      a blue shirt and black pants. He has his hands in his pockets, giving a casual
+      and relaxed appearance. The
+soccer:
+  /path_to_dataset/soccer/AD542D2K5-A11@12.png:
+    Caption:
+      adi adi originals originals originals originals originals originals originals
+      originals originals originals originals originals originals originals originals
+      originals originals originals originals
+  /path_to_dataset/soccer/AD542D2M9-A11@8.png:
+    Caption:
+      In the image, a young man is wearing a white t-shirt and black pants.
+      He has a tattoo on his left arm, which adds a unique touch to his overall appearance.
+      The tatto
+  /path_to_dataset/soccer/AD542E17Z-Q11@9.png:
+    Caption: adidas originals originals - tracksuit - black
+  /path_to_dataset/soccer/AD542E1EJ-K12@27.1.png:
+    Caption: adidas originals originals - panske - white / collegiate blue
+striped black top:
+  /path_to_dataset/striped black top/GLE22E00L-Q11@7.png:
+    Caption:
+      In the image, a man is wearing a black and gold striped t-shirt, black
+      pants, and white sneakers. He is standing with his back to the camera, giving
+      a full view of
+  /path_to_dataset/striped black top/KK122E00J-Q11@11.png:
+    Caption:
+      In the image, a man is wearing a black striped shirt and black sweatpants.
+      He is standing with his back to the camera, posing for a picture. The combination
+      of the striped sh
+  /path_to_dataset/striped black top/KK122E00J-Q11@9.png:
+    Caption:
+      The image features a young man wearing a black and white striped shirt,
+      black pants, and white sneakers. He is standing in front of a white wall, posing
+      for the camera. The black
+  /path_to_dataset/striped black top/NL022O0FA-M11@11.png:
+    Caption:
+      In the image, a young man is wearing a green and black striped t-shirt
+      and jeans. He is standing with his hands on his hips, posing for the camera.
+      The t-sh
+striped shirt shorts:
+  /path_to_dataset/striped shirt shorts/DR222D01U-A11@9.png:
+    Caption: a man in a striped shirt and shorts
+  /path_to_dataset/striped shirt shorts/GOG22O02X-M11@7.png:
+    Caption:
+      There is a young man standing in front of a white wall, wearing a green
+      and black striped t-shirt and black shorts. He appears to be posing for a photo.
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@11.png:
+    Caption:
+      There is a man wearing a striped shirt and blue denim shorts, standing
+      in front of a white wall. He has a tattoo on his left arm and is posing for
+      the camera. The
+  /path_to_dataset/striped shirt shorts/OS322D09H-K11@8.png:
+    Caption: a man in a striped shirt and denim shorts
+sweate stripes:
+  /path_to_dataset/sweate stripes/PJ422G02W-Q11@13.png:
+    Caption: a man in a striped shirt and black pants
+  /path_to_dataset/sweate stripes/PJ422G03O-Q11@35.png:
+    Caption:
+      In the image, a man is wearing a gray sweater and black pants. He is
+      standing with his hands in his pockets, creating a casual and relaxed pose.
+      The sweater and pants are
+  /path_to_dataset/sweate stripes/PUC22E030-K11@4.1.png:
+    Caption:
+      In the image, a young man is wearing a sweater and pants. He is standing
+      with his hands on his hips, posing for the camera. The sweater he is wearing
+      is multi-color
+  /path_to_dataset/sweate stripes/PUC22E030-K11@5.1.png:
+    Caption:
+      In the image, a young man is wearing a sweater and posing for a photo.
+      He is standing against a plain white background, with his hands on his hips.
+      The sweater he is wearing is
+tennis:
+  /path_to_dataset/tennis/L0642D003-Q11@13.png:
+    Caption: a man wearing a black t - shirt and white shorts
+  /path_to_dataset/tennis/L0642D003-Q11@15.png:
+    Caption:
+      In the image, a man wearing a black polo shirt and white shorts is holding
+      a tennis racket. He is standing in front of a white wall, which serves as a
+      backdrop for the image.
+  /path_to_dataset/tennis/L0642D03M-Q11@9.png:
+    Caption: a man in a blue shirt and white shorts
+  /path_to_dataset/tennis/L0642D03O-Q11@3.png:
+    Caption:
+      In the image, a young man is posing with a tennis racket, wearing a black
+      shirt and white shorts. He is standing in front of a white wall, holding the
+      tennis racket in his right
+total black:
+  /path_to_dataset/total black/JU622P01E-Q11@8.png:
+    Caption:
+      The scene features a young man wearing a black polo shirt, black pants,
+      and a black hat. He is standing in front of a white wall, posing for the camera.
+      The polo shirt
+  /path_to_dataset/total black/JU622P01K-Q11@9.png:
+    Caption:
+      In the image, a young man is wearing a black shirt and black pants. He
+      is standing with his hands on his hips, posing for the camera. The black shirt
+      and pants he is
+  /path_to_dataset/total black/JU622S02W-Q11@11.png:
+    Caption:
+      In the image, a young man is wearing a black leopard-print shirt, black
+      pants, and black shoes. He is standing in front of a white wall, posing for
+      the camera.
+  /path_to_dataset/total black/JU622S031-Q11@11.png:
+    Caption:
+      In the image, a young man is wearing a black sweatshirt and black leather
+      pants. He is standing against a white wall, posing for the camera. The sweatshirt
+      has an orange
+underpants:
+  /path_to_dataset/underpants/5JO82O00H-Q11@7.2.png:
+    Caption: a man in black tights and black underwear
+  /path_to_dataset/underpants/N1242E183-C11@10.1.png:
+    Caption:
+      In the image, a shirtless man is standing with his back to the camera,
+      wearing a pair of gray and black leggings. The leggings are made of moisture-wicking
+      fabric,
+  /path_to_dataset/underpants/N1242E186-C11@10.png:
+    Caption:
+      In the image, a man is wearing a gray long-sleeved shirt and black shorts.
+      He is standing with his back to the camera, showcasing his clothing and fabrics.
+      The man
+  /path_to_dataset/underpants/N1242E186-C11@12.png:
+    Caption: a man in grey and black underwear
+underwear:
+  /path_to_dataset/underwear/C1182O01R-Q11@7.1.png:
+    Caption:
+      In the image, a shirtless man is standing in front of a white wall, wearing
+      black boxer briefs. He is posing for the camera, showcasing his toned body.
+      The boxer
+  /path_to_dataset/underwear/DR282O000-Q11@8.2.png:
+    Caption: a man in black underwear stands against a white wall
+  /path_to_dataset/underwear/JA282H016-G11@7.1.png:
+    Caption:
+      In the image, a shirtless man is wearing red swim trunks and posing for
+      a photo. He is standing in front of a white wall, which serves as a backdrop
+      for the image. The
+  /path_to_dataset/underwear/PO282O000-K35@9.1.png:
+    Caption: a man wearing a red boxer briefs
+white shirt black pants:
+  /path_to_dataset/white shirt black pants/ES422A07M-C12@17.png:
+    Caption:
+      In the image, a man is wearing a white dress shirt and navy pants. He
+      is standing with his back to the camera, giving a full view of his outfit. The
+      man's clothing
+  /path_to_dataset/white shirt black pants/ES422E039-K11@14.png:
+    Caption: a man in a white sweater and black pants
+  /path_to_dataset/white shirt black pants/MI422D050-A11@5.png:
+    Caption: a man in a white shirt and jeans
+  /path_to_dataset/white shirt black pants/TOB22O01B-A11@12.png:
+    Caption: a man in a white sweater and jeans
+yellow tee:
+  /path_to_dataset/yellow tee/N1242E0M5-A11@14.png:
+    Caption:
+      In the image, a man is wearing a yellow and white polo shirt, shorts,
+      and sneakers. He is standing with his back to the camera, showcasing his tattoos
+      on his
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@13.1.png:
+    Caption: nike tennis - tennis shorts
+  /path_to_dataset/yellow tee/N1242E0M5-Q11@15.1.png:
+    Caption:
+      The scene features a man wearing a yellow and white polo shirt, black
+      shorts, and white sneakers. He is standing in front of a white wall, showcasing
+      his clothing and fabrics
+  /path_to_dataset/yellow tee/NOU22O00J-E11@5.png:
+    Caption:
+      In the image, a man is wearing a yellow long-sleeved shirt and black
+      shorts. He is standing with his back to the camera, showcasing his clothing
+      and fabrics. The yellow
